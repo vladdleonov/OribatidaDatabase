@@ -1,0 +1,2305 @@
+#NEXUS
+[R-package APE, Sun May 12 13:55:33 2024]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 1146;
+	TAXLABELS
+		Gymnodamaeus_neonominatus
+		Gymnodamaeus_sp.
+		Pedrocortesella_fusca
+		Pedrocortesella_minuta
+		Licnodamaeus_sp.
+		Licnodamaeus_undulatus
+		Licnodamaeus_fissuratus
+		Licnodamaeus_costula
+		Licnodamaeus_pulcherrimus
+		Trizetes_pyramidalis
+		Pseudoppia_mediocris
+		Hungarobelba_visnyai
+		Hungarobelba_pyrenaica
+		Gerloubia_hispanicus
+		Amerobelba_decedens
+		Mongaillardia_aeoliana
+		Mongaillardia_eveana
+		Hellenamerus_ionicus
+		Rastellobata_rastelligera
+		Pallidacarus_tichomirovi
+		Ghilarovus_hispanicus
+		Ghilarovus_stipatus
+		Paralopheremaeus_hispanicus
+		Gymnodamaeus_hispanicus
+		Lopheremaeus_laminipes
+		Aleurodamaeus_setosus
+		Licneremaeus_prodigiosus
+		Licneremaeus_giustii
+		Licneremaeus_embeyisztini
+		Licneremaeus_licnophorus
+		Spinozetes_inexpectatus
+		Heterozetes_palustris
+		Gehypochthonius_rhadamanthus
+		Parhypochthonius_aphidinus
+		Phauloppia_sp.
+		Platyliodes_scaliger
+		Platyliodes_doderleini
+		Neoliodes_sp.
+		Neoliodes_globosus
+		Neoliodes_ionicus
+		Neoliodes_theleproctus
+		Cymbaeremaeus_cymba
+		Scapheremaeus_reticulatus
+		Scapheremaeus_tricarinatus
+		Scapheremaeus_corniger
+		Scapheremaeus_palustris
+		Scapheremaeus_patella
+		Belorchestes_gebennicus
+		Microzetorchestes_emeryi
+		Zetorchestes_falzonii
+		Zetorchestes_flabrarius
+		Zetorchestes_reticulatus
+		Zetorchestes_grandjeani
+		Zetorchestes_phyllosetus
+		Fosseremus_laciniatus
+		Damaeolus_sp.
+		Damaeolus_ornatissimus
+		Damaeolus_cellulatus
+		Damaeolus_bregetovae
+		Damaeolus_asperatus
+		Eremulus_antis
+		Eremulus_flagellifer
+		Ctenobelba_pseudomahnerti
+		Ctenobelba_martyanensisov
+		Ctenobelba_pilosella
+		Ctenobelba_pulchellula
+		Ctenobelba_serrata
+		Ctenobelba_pectinigera
+		Amerus_sp.
+		Amerus_polonicus
+		Amerus_cuspidatus
+		Amerus_troisi
+		Eremobelba_geographica
+		Eremobelba_sp.
+		Pedrocortesella_inaequalis
+		Licnoliodes_andrei
+		Licnoliodes_adminensis
+		Poroliodes_farinosus
+		Peloribates_perezinigoi
+		Peloribates_sp.
+		Peloribates_pilosus
+		Peloribates_europaeus
+		Peloribates_tunisensis
+		Peloribates_glaber
+		Peloribates_longipilosus
+		Pilobates_carpetanus
+		Haplozetes_sp.
+		Lauritzenia_hispanica
+		Haplozetes_elegans
+		Lauritzenia_similis
+		Haplozetes_tenuifusus
+		Haplozetes_vindobonensis
+		Lauritzenia_sinuata
+		Paraleius_leontonychus
+		Dometorina_plantivaga
+		Scheloribates_sp.
+		Scheloribates_salebrosus
+		Scheloribates_pallidulus
+		Scheloribates_ascendens
+		Scheloribates_longiporosus
+		Scheloribates_xylobatoides
+		Scheloribates_angustirostris
+		Scheloribates_circumcarinatus
+		Scheloribates_longus
+		Scheloribates_fimbriatus
+		Scheloribates_latipes
+		Scheloribates_barbatulus
+		Scheloribates_minifimbriatus
+		Scheloribates_holsaticus
+		Setobates_alvaradoi
+		Setobates_pallidus
+		Scheloribates_carpathicus
+		Scheloribates_laevigatus
+		Scheloribates_quintus
+		Liebstadia_sp.
+		Liebstadia_microptera
+		Liebstadia_gratiosus
+		Liebstadia_saifulmalukensis
+		Liebstadia_longior
+		Liebstadia_humerata
+		Liebstadia_similis
+		Liebstadia_pannonica
+		Liebstadia_willmanni
+		Zygoribatula_sp.
+		Zygoribatula_caspica
+		Zygoribatula_ucrainica
+		Oribatula_sp.
+		Oribatula_polytuberculata
+		Oribatula_allifera
+		Zygoribatula_knighti
+		Zygoribatula_glabra
+		Oribatula_interrupta
+		Zygoribatula_exarata
+		Zygoribatula_cognata
+		Zygoribatula_exilis
+		Zygoribatula_microporoza
+		Zygoribatula_connexa
+		Zygoribatula_debilitranslamellata
+		Oribatula_saxicola
+		Zygoribatula_skrjabini
+		Oribatula_caliptera
+		Oribatula_pannonica
+		Zygoribatula_hispanica
+		Oribatula_saljanica
+		Oribatula_parisi
+		Oribatula_angustolamellata
+		Oribatula_amblyptera
+		Oribatula_pallida
+		Oribatula_macrostega
+		Zygoribatula_dactylaris
+		Oribatula_tibialis
+		Oribatula_longelamellata
+		Lucoppia_burrowsi
+		Zygoribatula_frisiae
+		Zygoribatula_thalassophila
+		Zygoribatula_undulata
+		Zygoribatula_excavata
+		Phauloppia_nemoralis
+		Phauloppia_coineaui
+		Phauloppia_lucorum
+		Phauloppia_rauschenensis
+		Podoribates_longipes
+		Truncopes_optatus
+		Transoribates_lagenula
+		Protoribates_sp.
+		Protoribates_dentatus
+		Protoribates_capucinus
+		Transoribates_latus
+		Protoribates_monodactylus
+		Protoribates_obtusus
+		Protoribates_vastus
+		Hemileius_eperezinigoae
+		Hemileius_robustus
+		Hemileius_initialis
+		Hemileius_scrobina
+		Hemileius_translamellatus
+		Hemileius_elongatus
+		Eupelops_sp.
+		Eupelops_meridionalis
+		Eupelops_bilobus
+		Eupelops_tardus
+		Eupelops_hygrophilus
+		Eupelops_ureaceus
+		Eupelops_subexutus
+		Eupelops_farinosus
+		Eupelops_siculus
+		Eupelops_variatus
+		Eupelops_occultus
+		Eupelops_strenzkei
+		Eupelops_geminus
+		Eupelops_halophilus
+		Eupelops_acromios
+		Eupelops_subuliger
+		Eupelops_nepotulus
+		Eupelops_claviger
+		Eupelops_somalicus
+		Eupelops_torulosus
+		Eupelops_septentrionalis
+		Eupelops_major
+		Eupelops_plicatus
+		Eupelops_hirtus
+		Eupelops_sulcatus
+		Peloptulus_sp.
+		Peloptulus_ibericus
+		Peloptulus_trinacriae
+		Peloptulus_sacculiferus
+		Peloptulus_montanus
+		Peloptulus_phaenotus
+		Peloptulus_gibbus
+		Peloptulus_reticulatus
+		Oribatella_sp.
+		Oribatella_superbula
+		Oribatella_sexdentata
+		Oribatella_tridactyla
+		Oribatella_tenuis
+		Oribatella_exilicornis
+		Oribatella_berlesei
+		Oribatella_longispina
+		Oribatella_dudichi
+		Oribatella_ornata
+		Oribatella_hungarica
+		Oribatella_pulchra
+		Oribatella_nigra
+		Oribatella_similesuperbula
+		Oribatella_euthricha
+		Oribatella_colchica
+		Oribatella_parvula
+		Oribatella_litoralis
+		Oribatella_quadricornuta
+		Oribatella_arctica
+		Oribatella_reticulata
+		Oribatella_calcarata
+		Oribatella_brevicuspidis
+		Tectoribates_sp.
+		Tectoribates_proximus
+		Tectoribates_ornatus
+		Joelia_fiorii
+		Ophidiotrichus_sp.
+		Ophidiotrichus_vindobonensis
+		Ophidiotrichus_oglasae
+		Ophidiotrichus_connexus
+		Pseudotectoribates_subsimilis
+		Pseudotectoribates_minidentatus
+		Galumna_sp.
+		Galumna_sivashensis
+		Galumna_apscheronnii
+		Pergalumna_sp.
+		Pergalumna_emarginata
+		Pergalumna_myrmophila
+		Pergalumna_willmanni
+		Pergalumna_nervosa
+		Pergalumna_formicaria
+		Pergalumna_minor
+		Pergalumna_altera
+		Allogalumna_sp.
+		Allogalumna_alamellae
+		Allogalumna_italica
+		Allogalumna_parva
+		Allogalumna_integer
+		Galumna_rossica
+		Galumna_iranensis
+		Galumna_dimorpha
+		Pergalumna_dorsalis
+		Galumna_tarsipennata
+		Galumna_gibbula
+		Galumna_obvia
+		Galumna_europaea
+		Galumna_flagellata
+		Galumna_elimata
+		Galumna_lanceata
+		Galumna_alata
+		Acrogalumna_longipluma
+		Acrogalumna_adjarica
+		Psammogalumna_thysanura
+		Psammogalumna_sp.
+		Pilogalumna_sp.
+		Pilogalumna_ornatula
+		Pilogalumna_boevi
+		Pilogalumna_crassiclava
+		Galumna_tenuiclavus
+		Dicatozetes_uropygium
+		Neoribates_aurantiacus
+		Neoribates_bulanovae
+		Damaeus_sp.
+		Epidamaeus_sp.
+		Damaeus_flagellifer
+		Epidamaeus_berlesei
+		Damaeus_torquisetosus
+		Damaeus_maximus
+		Epidamaeus_bituberculatus
+		Damaeus_onustus
+		Damaeus_riparius
+		Damaeus_gracilipes
+		Damaeus_crispatus
+		Epidamaeus_kamaensis
+		Damaeus_clavipes
+		Damaeus_auritus
+		Epidamaeus_tatricus
+		Damaeus_brevitibialis
+		Metabelba_sp.
+		Metabelba_propexa
+		Metabelba_flagelliseta
+		Metabelba_platynota
+		Metabelba_sphagni
+		Metabelba_papillipes
+		Metabelba_pulverosa
+		Metabelba_rhodendorfi
+		Metabelba_pulverulenta
+		Neobelba_pseudopapillipes
+		Metabelba_italica
+		Metabelba_rhodopeia
+		Damaeus_romandiolae
+		Metabelba_parapulverosa
+		Metabelba_ericius
+		Belba_sp.
+		Belba_minuta
+		Belba_meridionalis
+		Belba_compta
+		Belba_dubinini
+		Belba_patelloides
+		Belba_bartosi
+		Belba_verrucosa
+		Belba_sculpta
+		Belba_corynopus
+		Porobelba_spinosa
+		Porobelba_grandjeanica
+		Nortonbelba_italica
+		Kunstidamaeus_nidicola
+		Kunstidamaeus_tecticola
+		Kunstidamaeus_diversipilis
+		Belbodamaeus_tuberculatus
+		Spatiodamaeus_fageti
+		Spatiodamaeus_boreus
+		Spatiodamaeus_verticillipes
+		Subbelba_partiocrispa
+		Metabelbella_tichonravovi
+		Metabelbella_janae
+		Metabelbella_zachvatkini
+		Metabelbella_macerochaeta
+		Metabelbella_interlamellaris
+		Tectocepheus_sp.
+		Tectocepheus_minor
+		Tectocepheus_punctulatus
+		Tectocepheus_tenuis
+		Tectocepheus_velatus
+		Tectocepheus_sarekensis
+		Tectocepheus_alatus
+		Tectocepheus_knullei
+		Austrocarabodes_ensifer
+		Austrocarabodes_foliaceisetus
+		Austrocarabodes_arrogans
+		Odontocepheus_hungaricus
+		Odontocepheus_elongatus
+		Odontocepheus_espatulatus
+		Carabodes_sp.
+		Carabodes_csikii
+		Carabodes_reticulatus
+		Carabodes_quadrangulus
+		Carabodes_similis
+		Carabodes_hungaricus
+		Carabodes_labyrinthicus
+		Carabodes_ornatus
+		Carabodes_willmanni
+		Carabodes_minusculus
+		Carabodes_grandjeani
+		Carabodes_rugosior
+		Carabodes_translamellatus
+		Carabodes_poggii
+		Carabodes_schatzi
+		Carabodes_hispanicus
+		Carabodes_arduinii
+		Carabodes_manganoi
+		Carabodes_aerolatus
+		Carabodes_femoralis
+		Carabodes_dissimilis
+		Carabodes_offinis
+		Carabodes_coriaceus
+		Carabodes_tenuis
+		Carabodes_tyrrhenicus
+		Carabodes_perezinigoi
+		Carabodes_subarcticus
+		Carabodes_marginatus
+		Hermanniella_sp.
+		Hermanniella_granulata
+		Hermanniella_punctulata
+		Hermanniella_picea
+		Hermanniella_dolosa
+		Hermanniella_aliverdievae
+		Hermanniella_septentrionalis
+		Cepheus_tuberculosus
+		Cepheus_sp.
+		Cepheus_grandis
+		Cepheus_dentatus
+		Cepheus_latus
+		Cepheus_cepheiformis
+		Tritegeus_bifidatus
+		Tritegeus_bisulcatus
+		Parachipteria_sp.
+		Pseudachipteria_sp.
+		Parachipteria_fanzagoi
+		Parachipteria_punctata
+		Pseudachipteria_magna
+		Parachipteria_nicoleti
+		Parachipteria_willmanni
+		Cerachipteria_minuscula
+		Cerachipteria_digita
+		Parachipteria_perproxima
+		Parachipteria_bella
+		Parachipteria_petiti
+		Parachipteria_georgica
+		Parachipteria_snowdonensis
+		Campachipteria_patavina
+		Anachipteria_shtanchaevae
+		Anachipteria_sp.
+		Anachipteria_dubia
+		Anachipteria_alpina
+		Anachipteria_deficiens
+		Anachipteria_howardi
+		Achipteria_sp.
+		Achipteria_coleoptrata
+		Achipteria_nitens
+		Achipteria_italica
+		Achipteria_oudemansi
+		Achipteria_quadridentata
+		Achipteria_sellnicki
+		Tegoribates_latirostris
+		Lepidozetes_singularis
+		Lepidozetes_chernovi
+		Kaszabobates_kaszabi
+		Pantelozetes_sp.
+		Pantelozetes_paolii
+		Pantelozetes_multidentata
+		Montizetes_alpestris
+		Montizetes_abulensis
+		Mycobates_sp.
+		Mycobates_monodactylus
+		Mycobates_bicornis
+		Mycobates_alpinus
+		Mycobates_cambricus
+		Mycobates_tridactylus
+		Mycobates_carli
+		Mycobates_sarekensis
+		Mycobates_parmeliae
+		Zachvatkinibates_quadrivertex
+		Zachvatkinibates_nemoralis
+		Humerobates_rostrolamellatus
+		Humerobates_translamellatus
+		Chamobates_sp.
+		Chamobates_roynortoni
+		Chamobates_boresetosus
+		Chamobates_latissimus
+		Chamobates_rastratus
+		Chamobates_interpositus
+		Chamobates_voigtsi
+		Chamobates_caucasicus
+		Chamobates_confusus
+		Chamobates_dentotutorii
+		Chamobates_cuspidatus
+		Chamobates_schuetzi
+		Chamobates_perezinigoi
+		Chamobates_cuspidatiformis
+		Chamobates_sergienkoae
+		Chamobates_pusillus
+		Chamobates_borealis
+		Chamobates_subglobulus
+		Chamobates_birulai
+		Globozetes_longipilus
+		Punctoribates_sp.
+		Punctoribates_schachtachtinskoi
+		Minunthozetes_sp.
+		Punctoribates_zachvatkini
+		Semipunctoribates_astrachanicus
+		Minunthozetes_quadriareatus
+		Minunthozetes_pseudofusiger
+		Minunthozetes_semirufus
+		Minunthozetes_tarmani
+		Minunthozetes_reticulatus
+		Punctoribates_sphaericus
+		Punctoribates_liber
+		Punctoribates_mundus
+		Punctoribates_sellnicki
+		Punctoribates_latilobatus
+		Punctoribates_punctum
+		Punctoribates_minimus
+		Punctoribates_angulatus
+		Punctoribates_moldavicus
+		Punctoribates_hexagonus
+		Ceratozetes_sp.
+		Ceratozetes_bulanovae
+		Ceratozetes_spiculatus
+		Melanozetes_sp.
+		Melanozetes_sellnicki
+		Melanozetes_stagnatilis
+		Melanozetes_interruptus
+		Melanozetes_mollicomus
+		Melanozetes_meridianus
+		Diapterobates_sp.
+		Diapterobates_oblongus
+		Diapterobates_notatus
+		Diapterobates_humeralis
+		Diapterobates_variabilis
+		Svalbardia_paludicola
+		Sphaerozetes_piriformis
+		Sphaerozetes_tricuspidatus
+		Sphaerozetes_orbicularis
+		Fuscozetes_sp.
+		Fuscozetes_intermedius
+		Fuscozetes_fuscipes
+		Fuscozetes_setosus
+		Fuscozetes_pseudosetosus
+		Protozetomimus_acutirostris
+		Zetomimus_furcatus
+		Zetomimus_boothianus
+		Jugatala_cribelliger
+		Jugatala_angulata
+		Iugoribates_cornutus
+		Iugoribates_sp.
+		Edwardzetes_edwardsi
+		Ceratozetes_aragonensis
+		Ceratozetes_contiguus
+		Ceratozetes_psammophilus
+		Ceratozetes_simulator
+		Ceratozetes_mediocris
+		Ceratozetes_minutissimus
+		Ceratozetes_parvulus
+		Ceratozetes_peritus
+		Ceratozetes_gracilis
+		Ceratozetes_conjunctus
+		Ceratozetes_minimus
+		Ceratozetes_nanus
+		Ceratozetes_armatus
+		Ceratozetes_lagrecai
+		Ceratozetes_laticuspidatus
+		Oromurcia_sudetica
+		Oromurcia_bicuspidata
+		Ceratozetes_sellnicki
+		Ceratozetes_thienemanni
+		Ceratozetes_venusta
+		Ceratozetoides_cisalpinus
+		Ceratozetoides_maximus
+		Trichoribates_caucasicus
+		Trichoribates_sp.
+		Trichoribates_angustatus
+		Latilamellobates_algarvensis
+		Trichoribates_scilierensis
+		Trichoribates_incisellus
+		Latilamellobates_clavatus
+		Trichoribates_novus
+		Trichoribates_punctatus
+		Trichoribates_latelamellatus
+		Trichoribates_monticola
+		Trichoribates_trimaculatus
+		Euzetes_sp.
+		Euzetes_globulus
+		Euzetes_seminulum
+		Unduloribates_undulatus
+		Latovertex_laticuspis
+		Scutovertex_sp.
+		Scutovertex_bulgaricus
+		Scutovertex_sculptus
+		Scutovertex_perforatulus
+		Scutovertex_minutus
+		Scutovertex_arenocolus
+		Scutovertex_serratus
+		Scutovertex_granulatus
+		Lamellovertex_caelatus
+		Passalozetes_sp.
+		Passalozetes_intermedius
+		Passalozetes_strenzkei
+		Passalozetes_perforatus
+		Passalozetes_africanus
+		Passalozetes_inlenticulatus
+		Passalozetes_agricola
+		Passalozetes_hispanicus
+		Micreremus_gracilior
+		Micreremus_brevipes
+		Limnozetes_sp.
+		Limnozetes_rugosus
+		Limnozetes_palmerae
+		Limnozetes_ciliatus
+		Limnozetes_lustrum
+		Limnozetes_amnicus
+		Hydrozetes_longisetosus
+		Hydrozetes_thienemanni
+		Hydrozetes_lemnae
+		Hydrozetes_parisiensis
+		Hydrozetes_lacustris
+		Hydrozetes_confervae
+		Dorycranosus_keretinus
+		Adoristes_poppei
+		Adoristes_ovatus
+		Adoristes_krivolutskyi
+		Liacarus_subnitens
+		Liacarus_sp.
+		Liacarus_brevilamellatus
+		Liacarus_nitens
+		Liacarus_oribatelloides
+		Liacarus_subterraneus
+		Dorycranosus_curtipilis
+		Liacarus_coracinus
+		Dorycranosus_acutus
+		Dorycranosus_punctulatus
+		Liacarus_perezinigoi
+		Dorycranosus_splendens
+		Liacarus_xylariae
+		Dorycranosus_zachvatkini
+		Xenillus_sp.
+		Xenillus_discrepans
+		Xenillus_occultus
+		Xenillus_ybarrai
+		Xenillus_clavatopilus
+		Xenillus_setosus
+		Xenillus_salamoni
+		Xenillus_clypeator
+		Xenillus_tegeocranus
+		Gustavia_oceanica
+		Gustavia_microcephala
+		Gustavia_fusifer
+		Hafenrefferia_gilvipes
+		Furcoribula_furcillata
+		Phauloppia_pilosa
+		Cultroribula_sp.
+		Cultroribula_bicultrata
+		Cultroribula_juncta
+		Pyroppia_sp.
+		Pyroppia_tajikistanica
+		Pyroppia_lanceolata
+		Ceratoppia_sp.
+		Ceratoppia_sphaerica
+		Ceratoppia_quadridentata
+		Ceratoppia_bipilis
+		Ceratoppia_sexpilosa
+		Parapyroppia_monodactyla
+		Ameronothrus_lineatus
+		Ameronothrus_schneideri
+		Ameronothrus_maculatus
+		Ameronothrus_nigrofemoratus
+		Ameronothrus_marinus
+		Arthrodamaeus_sp.
+		Gymnodamaeus_barbarossa
+		Gymnodamaeus_bicostatus
+		Gymnodamaeus_mongolica
+		Arthrodamaeus_femoratus
+		Arthrodamaeus_reticulatus
+		Arthrodamaeus_mediterraneus
+		Gymnodamaeus_helveticus
+		Arthrodamaeus_starki
+		Plesiodamaeus_ornatus
+		Eremaeus_sp.
+		Tricheremaeus_serratus
+		Tricheremaeus_sp.
+		Eueremaeus_sp.
+		Eueremaeus_oblongus
+		Eueremaeus_quadrilamellatus
+		Eremaeus_travei
+		Eueremaeus_silvestris_
+		Eueremaeus_foveolatus
+		Eueremaeus_marshalli
+		Eueremaeus_valkanovi
+		Eueremaeus_masinasin
+		Eremaeus_cordiformis
+		Eremaeus_hepaticus
+		Eremaeus_tuberosus
+		Autogneta_sp.
+		Autogneta_parva
+		Autogneta_longilamellata
+		Conchogneta_sp.
+		Conchogneta_traegardhi
+		Conchogneta_dalecarlica
+		Quadroppia_sp.
+		Quadroppia_media
+		Quadroppia_omodeoi
+		Quadroppia_michaeli
+		Quadroppia_galaica
+		Quadroppia_quadricarinata
+		Quadroppia_pseudocircumita
+		Quadroppia_monstruosa
+		Quadroppia_longisetosa
+		Quadroppia_ritza
+		Quadroppia_hammerae
+		Quadroppia_bellula
+		Coronoquadroppia_abchasica
+		Suctobelbata_truncicola
+		Suctobelbata_prelli
+		Suctobelbella_sp.
+		Suctobelbella_pilososetosa
+		Suctobelbella_longirostris
+		Suctobelbella_lobata
+		Suctobelbella_longicuspis
+		Suctobelbella_opistodentata
+		Suctobelbella_nasalis
+		Suctobelbella_elegantula
+		Suctobelbella_moritzi
+		Suctobelbella_falcata
+		Suctobelbella_alloenasuta
+		Suctobelbella_bella
+		Suctobelbella_perforata
+		Suctobelbella_carcharodon
+		Suctobelbella_arcana
+		Suctobelbella_prominens
+		Suctobelbella_hammerae
+		Suctobelbella_nana
+		Suctobelbella_baloghi
+		Suctobelbella_similis
+		Suctobelbella_singularis
+		Suctobelbella_italica
+		Suctobelbella_maculata
+		Suctobelbella_messneri
+		Suctobelbella_duplex
+		Suctobelbella_tuberculata
+		Suctobelbella_forsslundi
+		Suctobelbella_palustris
+		Suctobelbella_subtrigona
+		Suctobelbella_latirostris
+		Suctobelbella_subcornigera
+		Suctobelbella_hamata
+		Suctobelbella_vera
+		Suctobelbella_sarekensis
+		Suctobelbella_acutidens
+		Allosuctobelba_grandis
+		Allosuctobelba_sp.
+		Suctobelba_sp.
+		Suctobelba_discrepans
+		Suctobelba_lapidaria
+		Suctobelba_altvateri
+		Suctobelba_consimilis
+		Suctobelba_secta
+		Suctobelba_trigona
+		Suctobelba_reticulata
+		Suctobelba_atomaria
+		Suctobelba_regia
+		Suctobelba_aliena
+		Suctobelba_granulata
+		Caleremaeus_monilipes
+		Banksinoma_islandica
+		Banksinoma_borealis
+		Banksinoma_lanceolata
+		Banksinoma_setosa
+		Oribella_castanea
+		Oribella_pectinata
+		Oribella_matritensis
+		Machuella_ventrisetosa
+		Machuella_bilineata
+		Machuella_draconis
+		Oppiella_oreia
+		Oppiella_acuminata
+		Oppia_sp.
+		Oppiella_tenuipectinata
+		Oppiella_vera
+		Oppiella_marginedentata
+		Oppiella_media
+		Oppiella_motasi
+		Oppiella_sp.
+		Oppia_chilinofuncta
+		Oppia_arabica
+		Berniniella_sp.
+		Berniniella_minuta
+		Berniniella_aeoliana
+		Berniniella_sigma
+		Berniniella_serratirostris
+		Berniniella_azerbeidjanica
+		Berniniella_robusta
+		Berniniella_inornata
+		Berniniella_parasigma
+		Berniniella_carinatissima
+		Berniniella_lunaris
+		Berniniella_dungeri
+		Berniniella_bicarinata
+		Berniniella_conjuncta
+		Berniniella_setilonga
+		Berniniella_intrudens
+		Neotrichoppia_confinis
+		Berniniella_latidens
+		Berniniella_hauseri
+		Ramuselloppia_anomala
+		Ramusella_sp.
+		Ramusella_sahariensis
+		Ramusella_eduardoi
+		Ramusella_puertomonttensis
+		Ramusella_terricola
+		Ramusella_gyrata
+		Ramusella_elongata
+		Ramusella_furcata
+		Ramusella_clavipectinata
+		Ramusella_junonis
+		Ramusella_insculpta
+		Ramusella_bagnalli
+		Ramusella_subiasi
+		Ramusella_elliptica
+		Ramusella_strinatii
+		Ramusella_fasciata
+		Ramusella_sengbuschi
+		Ramusella_anuncata
+		Ramusella_varians
+		Ramusella_mihelcici
+		Ramusella_assimiloides
+		Oxyoppia_sp.
+		Pluritrichoppia_insolita
+		Oxyoppioides_decipiens
+		Oxyoppioides_sp.
+		Joboppia_dichosa
+		Taiwanoppia_mercedesae
+		Oxyoppia_intermedia
+		Oxyoppia_yepesensis
+		Serratoppia_sp.
+		Serratoppia_duffyi
+		Serratoppia_intermedia
+		Serratoppia_minima
+		Lucoppia_feideri
+		Oppiella_falcata
+		Oppiella_maritima
+		Oxyoppia_europaea
+		Subiasella_quadrimaculata
+		Subiasella_lamellata
+		Dissorhina_shqipetarica
+		Dissorhina_corniculata
+		Dissorhina_longipilosa
+		Dissorhina_signata
+		Dissorhina_ornata
+		Multioppia_excisa
+		Multioppia_sp.
+		Multioppia_glabra
+		Multioppia_moritzi
+		Multioppia_perfecta
+		Multioppia_laniseta
+		Multioppia_neglecta
+		Multioppia_pulchra
+		Multioppia_carpatica
+		Multioppia_wilsoni
+		Microppia_minus
+		Hypogeoppia_sp.
+		Hypogeoppia_hypogea
+		Hypogeoppia_exempta
+		Hypogeoppia_terricola
+		Graptoppia_paraanalis
+		Graptoppia_neonominata
+		Graptoppia_foveolata
+		Microppia_longisetosa
+		Lasiobelba_decui
+		Lasiobelba_kuehnelti
+		Oppia_arcidiaconoae
+		Corynoppia_foliatoides
+		Corynoppia_kosarovi
+		Oppiella_subpectinata
+		Anomaloppia_differens
+		Anomaloppia_sp.
+		Discoppia_cylindrica
+		Pulchroppiella_litttlewoodi
+		Pulchroppiella_plurisetosa
+		Oppiella_nasuta
+		Oppia_elongata
+		Oppia_denticulata
+		Oppia_nitens
+		Oppia_myrmecophila
+		Oppiella_uliginosa
+		Oppiella_obscura
+		Oppiella_hygrophila
+		Oppiella_propinqua
+		Oppiella_beskidyensis
+		Oppiella_obsoleta
+		Oppiella_baburini
+		Oppiella_neerlandica
+		Oppiella_nova
+		Oppiella_loksai
+		Oppiella_fallax
+		Oppiella_unicarinata
+		Oppiella_doris
+		Oppiella_translamellata
+		Oppiella_splendens
+		Oppiella_escotata
+		Oppiella_hauseri
+		Oppiella_keilbachi
+		Oppiella_similifallax
+		Kulievia_paradecipiens
+		Nanhermannia_sp.
+		Nanhermannia_comitalis
+		Nanhermannia_sellnicki
+		Nanhermannia_nana
+		Nanhermannia_elegantula
+		Nanhermannia_coronata
+		Masthermannia_mammillaris
+		Nothrus_sp.
+		Platynothrus_sp.
+		Heminothrus_sp.
+		Heminothrus_paoliianus
+		Heminothrus_longisetosus
+		Platynothrus_fluviatilis
+		Platynothrus_capillatus
+		Heminothrus_targionii
+		Neonothrus_humicolus
+		Platynothrus_thori
+		Platynothrus_peltifer
+		Platynothrus_punctatus
+		Camisia_sp.
+		Camisia_solhoeyi
+		Camisia_spinifer
+		Nothrus_umbratilis
+		Camisia_biurus
+		Camisia_invenusta
+		Camisia_segnis
+		Camisia_foveolata
+		Camisia_horrida
+		Camisia_biverrucata
+		Nothrus_biciliatus
+		Nothrus_borussicus
+		Nothrus_pratensis
+		Nothrus_silvestris
+		Nothrus_palustris
+		Nothrus_longipilus
+		Nothrus_parvus
+		Haplochthonius_sp.
+		Haplochthonius_sanctaeluciae
+		Haplochthonius_simplex
+		Haplochthonius_clavatus
+		Trhypochthoniellus_longisetus
+		Trhypochthoniellus_setosus
+		Trhypochthonius_tectorum
+		Trhypochthonius_japonicus
+		Trhypochthonius_nigricans
+		Trhypochthonius_cladonicola
+		Mainothrus_badius
+		Mucronothrus_nasalis
+		Malaconothrus_sp.
+		Malaconothrus_processus
+		Malaconothrus_purvisi
+		Malaconothrus_angulatus
+		Malaconothrus_monodactylus
+		Malaconothrus_scutatus
+		Trimalaconothrus_angulatus
+		Trimalaconothrus_glaber
+		Trimalaconothrus_foveolatus
+		Trimalaconothrus_maior
+		Trimalaconothrus_tardus
+		Trimalaconothrus_vietsi
+		Trimalaconothrus_sculptus
+		Hermannia_sp.
+		Hermannia_convexa
+		Hermannia_gibba
+		Hermannia_reticulata
+		Hermannia_scabra
+		Hermannia_pulchella
+		Hermannia_subglabra
+		Bursoplophora_insularis
+		Bursoplophora_iberica
+		Bursoplophora_meridionalis
+		Bursoplophora_tyrrhenica
+		Protoplophora_palpalis
+		Cryptoplophora_abscondita
+		Eniochthonius_minutissimus
+		Hypochthonius_luteus
+		Hypochthonius_rufulus
+		Atopochthonius_artiodactylus
+		Synchthonius_elegans
+		Synchthonius_crenulatus
+		Neoliochthonius_occultus
+		Neoliochthonius_piluliferus
+		Mixochthonius_pilososetosus
+		Brachychthonius_impressus
+		Brachychthonius_hirtus
+		Brachychthonius_berlesei
+		Brachychthonius_pseudoimmaculatus
+		Brachychthonius_bimaculatus
+		Brachychthonius_pius
+		Eobrachychthonius_latior
+		Eobrachychthonius_borealis
+		Eobrachychthonius_oudemansi
+		Sellnickochthonius_hungaricus
+		Sellnickochthonius_chinonei
+		Sellnickochthonius_immaculatus
+		Sellnickochthonius_fuentesi
+		Sellnickochthonius_dolosus
+		Sellnickochthonius_jugatus
+		Sellnickochthonius_jacoti
+		Sellnickochthonius_formosus
+		Sellnickochthonius_zelawaiensis
+		Sellnickochthonius_suecicus
+		Sellnickochthonius_gracilis
+		Sellnickochthonius_honestus
+		Sellnickochthonius_rostratus
+		Sellnickochthonius_cricoides
+		Sellnickochthonius_meridionalis
+		Neobrachychthonius_marginatus
+		Neobrachychthonius_magnus
+		Verachthonius_laticeps
+		Liochthonius_sp.
+		Liochthonius_strenzkei
+		Liochthonius_evansi
+		Liochthonius_dilutus
+		Liochthonius_perfusorius
+		Liochthonius_furcillatus
+		Liochthonius_horridus
+		Liochthonius_muscorum
+		Liochthonius_brevis
+		Liochthonius_propinquus
+		Liochthonius_neglectus
+		Liochthonius_tuxeni
+		Liochthonius_hystricinus
+		Liochthonius_clavatus
+		Liochthonius_leptaleus
+		Liochthonius_perelegans
+		Liochthonius_gisini
+		Liochthonius_laetepictus
+		Liochthonius_peduncularis
+		Liochthonius_alpestris
+		Liochthonius_sellnicki
+		Liochthonius_simplex
+		Liochthonius_lapponicus
+		Poecilochthonius_italicus
+		Poecilochthonius_spiciger
+		Mesoplophora_michaeliana
+		Mesoplophora_pulchra
+		Sphaerochthonius_splendidus
+		Sphaerochthonius_pallidus
+		Phyllozetes_tauricus
+		Phyllozetes_emmae
+		Krivolutskiella_sp.
+		Cosmochthonius_sp.
+		Cosmochthonius_tenuisetus
+		Cosmochthonius_lanatus
+		Cosmochthonius_plumatus
+		Cosmochthonius_reticulatus
+		Cosmochthonius_perezinigoi
+		Cosmochthonius_ponticus
+		Cosmochthonius_foliatus
+		Cosmochthonius_semifoveolatus
+		Eulohmannia_ribagai
+		Epilohmannia_sp.
+		Epilohmannia_styriaca
+		Epilohmannia_minima
+		Epilohmannia_imreorum
+		Epilohmannia_schusteri
+		Epilohmannia_cylindrica
+		Perlohmannia_sp.
+		Perlohmannia_dissimilis
+		Perlohmannia_insignis
+		Thamnacarus_longisetosus
+		Thamnacarus_sp.
+		Papillacarus_aciculatus
+		Papillacarus_pseudoaciculatus
+		Lohmannia_hungarorum
+		Lohmannia_paradoxa
+		Cryptacarus_promecus
+		Acrotritia_sp.
+		Acrotritia_duplicata
+		Acrotritia_curticephala
+		Acrotritia_hyeroglyphica
+		Acrotritia_simile
+		Acrotritia_ardua
+		Euphthiracarus_sp.
+		Euphthiracarus_monodactylus
+		Euphthiracarus_cribrarius
+		Euphthiracarus_reticulatus
+		Microtritia_minima
+		Microtritia_sp.
+		Oribotritia_sp.
+		Oribotritia_loricata
+		Oribotritia_bagnalli
+		Oribotritia_berlesei
+		Protoribotritia_oligotricha
+		Paratritia_baloghi
+		Indotritia_zangherii
+		Mesotritia_flagelliformis
+		Mesotritia_nuda
+		Steganacarus_sp.
+		Steganacarus_carusoi
+		Steganacarus_magnus
+		Steganacarus_carinatus
+		Steganacarus_boulfekhari
+		Steganacarus_personatus
+		Steganacarus_brevipilus
+		Steganacarus_applicatus
+		Steganacarus_simonettae
+		Steganacarus_spinosus
+		Steganacarus_patruelis
+		Steganacarus_herculeanus
+		Steganacarus_hirsutus
+		Steganacarus_incognitus
+		Steganacarus_michaeli
+		Atropacarus_sp.
+		Atropacarus_clavigerus
+		Atropacarus_obesus
+		Atropacarus_wandae
+		Atropacarus_genavensis
+		Atropacarus_csiszarae
+		Atropacarus_platakisi
+		Phthiracarus_opacus
+		Phthiracarus_clavatus
+		Phthiracarus_sp.
+		Phthiracarus_membranifer
+		Phthiracarus_compressus
+		Phthiracarus_bryobius
+		Phthiracarus_borealis
+		Phthiracarus_ferrugineus
+		Phthiracarus_longulus
+		Phthiracarus_testudineus
+		Phthiracarus_crenophilus
+		Phthiracarus_boresetosus
+		Phthiracarus_italicus
+		Phthiracarus_globosus
+		Phthiracarus_crassus
+		Phthiracarus_assimilis
+		Phthiracarus_piger
+		Phthiracarus_crinitus
+		Phthiracarus_tristis
+		Phthiracarus_affinis
+		Phthiracarus_serrulatus
+		Phthiracarus_dominiaki
+		Phthiracarus_lentulus
+		Phthiracarus_montanus
+		Phthiracarus_subdolus
+		Phthiracarus_subiasi
+		Phthiracarus_anonymus
+		Phthiracarus_ligneus
+		Phthiracarus_nitens
+		Phthiracarus_spadix
+		Hoplophthiracarus_pavidus
+		Austrophthiracarus_heterotrichus
+		Hoplophthiracarus_illinoisensis
+		Microzetes_custulatus
+		Microzetes_helleicus
+		Microzetes_mirandus
+		Microzetes_caucasicus
+		Microzetes_adansoni
+		Microzetes_petrocoriensis
+		Microzetes_castrii
+		Microzetes_septentrionalis
+		Berlesezetes_aegypticus
+		Berlesezetes_grandjeani
+		Berlesezetes_ornatissimus
+		Berlesezetes_auxiliaris
+		Palaeacarus_sp.
+		Palaeacarus_hystricinus
+		Palaeacarus_kamenskii
+		Beklemishevia_hispaniola
+		Beklemishevia_galeodula
+		Ctenacarus_araneola
+		Gilarovella_demetrii
+		Aphelacarus_acarinus
+		Aphelacarus_sp.
+		Adelphacarus_sellnicki
+		Acaronychus_traegardhi
+		Kodiakella_dimorpha
+		Licnobelba_sp.
+		Licnobelba_caesarea
+		Licnobelba_latiflabellata
+		Paraliochthonius_sp.
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Gymnodamaeus_neonominatus,
+		2	Gymnodamaeus_sp.,
+		3	Pedrocortesella_fusca,
+		4	Pedrocortesella_minuta,
+		5	Licnodamaeus_sp.,
+		6	Licnodamaeus_undulatus,
+		7	Licnodamaeus_fissuratus,
+		8	Licnodamaeus_costula,
+		9	Licnodamaeus_pulcherrimus,
+		10	Trizetes_pyramidalis,
+		11	Pseudoppia_mediocris,
+		12	Hungarobelba_visnyai,
+		13	Hungarobelba_pyrenaica,
+		14	Gerloubia_hispanicus,
+		15	Amerobelba_decedens,
+		16	Mongaillardia_aeoliana,
+		17	Mongaillardia_eveana,
+		18	Hellenamerus_ionicus,
+		19	Rastellobata_rastelligera,
+		20	Pallidacarus_tichomirovi,
+		21	Ghilarovus_hispanicus,
+		22	Ghilarovus_stipatus,
+		23	Paralopheremaeus_hispanicus,
+		24	Gymnodamaeus_hispanicus,
+		25	Lopheremaeus_laminipes,
+		26	Aleurodamaeus_setosus,
+		27	Licneremaeus_prodigiosus,
+		28	Licneremaeus_giustii,
+		29	Licneremaeus_embeyisztini,
+		30	Licneremaeus_licnophorus,
+		31	Spinozetes_inexpectatus,
+		32	Heterozetes_palustris,
+		33	Gehypochthonius_rhadamanthus,
+		34	Parhypochthonius_aphidinus,
+		35	Phauloppia_sp.,
+		36	Platyliodes_scaliger,
+		37	Platyliodes_doderleini,
+		38	Neoliodes_sp.,
+		39	Neoliodes_globosus,
+		40	Neoliodes_ionicus,
+		41	Neoliodes_theleproctus,
+		42	Cymbaeremaeus_cymba,
+		43	Scapheremaeus_reticulatus,
+		44	Scapheremaeus_tricarinatus,
+		45	Scapheremaeus_corniger,
+		46	Scapheremaeus_palustris,
+		47	Scapheremaeus_patella,
+		48	Belorchestes_gebennicus,
+		49	Microzetorchestes_emeryi,
+		50	Zetorchestes_falzonii,
+		51	Zetorchestes_flabrarius,
+		52	Zetorchestes_reticulatus,
+		53	Zetorchestes_grandjeani,
+		54	Zetorchestes_phyllosetus,
+		55	Fosseremus_laciniatus,
+		56	Damaeolus_sp.,
+		57	Damaeolus_ornatissimus,
+		58	Damaeolus_cellulatus,
+		59	Damaeolus_bregetovae,
+		60	Damaeolus_asperatus,
+		61	Eremulus_antis,
+		62	Eremulus_flagellifer,
+		63	Ctenobelba_pseudomahnerti,
+		64	Ctenobelba_martyanensisov,
+		65	Ctenobelba_pilosella,
+		66	Ctenobelba_pulchellula,
+		67	Ctenobelba_serrata,
+		68	Ctenobelba_pectinigera,
+		69	Amerus_sp.,
+		70	Amerus_polonicus,
+		71	Amerus_cuspidatus,
+		72	Amerus_troisi,
+		73	Eremobelba_geographica,
+		74	Eremobelba_sp.,
+		75	Pedrocortesella_inaequalis,
+		76	Licnoliodes_andrei,
+		77	Licnoliodes_adminensis,
+		78	Poroliodes_farinosus,
+		79	Peloribates_perezinigoi,
+		80	Peloribates_sp.,
+		81	Peloribates_pilosus,
+		82	Peloribates_europaeus,
+		83	Peloribates_tunisensis,
+		84	Peloribates_glaber,
+		85	Peloribates_longipilosus,
+		86	Pilobates_carpetanus,
+		87	Haplozetes_sp.,
+		88	Lauritzenia_hispanica,
+		89	Haplozetes_elegans,
+		90	Lauritzenia_similis,
+		91	Haplozetes_tenuifusus,
+		92	Haplozetes_vindobonensis,
+		93	Lauritzenia_sinuata,
+		94	Paraleius_leontonychus,
+		95	Dometorina_plantivaga,
+		96	Scheloribates_sp.,
+		97	Scheloribates_salebrosus,
+		98	Scheloribates_pallidulus,
+		99	Scheloribates_ascendens,
+		100	Scheloribates_longiporosus,
+		101	Scheloribates_xylobatoides,
+		102	Scheloribates_angustirostris,
+		103	Scheloribates_circumcarinatus,
+		104	Scheloribates_longus,
+		105	Scheloribates_fimbriatus,
+		106	Scheloribates_latipes,
+		107	Scheloribates_barbatulus,
+		108	Scheloribates_minifimbriatus,
+		109	Scheloribates_holsaticus,
+		110	Setobates_alvaradoi,
+		111	Setobates_pallidus,
+		112	Scheloribates_carpathicus,
+		113	Scheloribates_laevigatus,
+		114	Scheloribates_quintus,
+		115	Liebstadia_sp.,
+		116	Liebstadia_microptera,
+		117	Liebstadia_gratiosus,
+		118	Liebstadia_saifulmalukensis,
+		119	Liebstadia_longior,
+		120	Liebstadia_humerata,
+		121	Liebstadia_similis,
+		122	Liebstadia_pannonica,
+		123	Liebstadia_willmanni,
+		124	Zygoribatula_sp.,
+		125	Zygoribatula_caspica,
+		126	Zygoribatula_ucrainica,
+		127	Oribatula_sp.,
+		128	Oribatula_polytuberculata,
+		129	Oribatula_allifera,
+		130	Zygoribatula_knighti,
+		131	Zygoribatula_glabra,
+		132	Oribatula_interrupta,
+		133	Zygoribatula_exarata,
+		134	Zygoribatula_cognata,
+		135	Zygoribatula_exilis,
+		136	Zygoribatula_microporoza,
+		137	Zygoribatula_connexa,
+		138	Zygoribatula_debilitranslamellata,
+		139	Oribatula_saxicola,
+		140	Zygoribatula_skrjabini,
+		141	Oribatula_caliptera,
+		142	Oribatula_pannonica,
+		143	Zygoribatula_hispanica,
+		144	Oribatula_saljanica,
+		145	Oribatula_parisi,
+		146	Oribatula_angustolamellata,
+		147	Oribatula_amblyptera,
+		148	Oribatula_pallida,
+		149	Oribatula_macrostega,
+		150	Zygoribatula_dactylaris,
+		151	Oribatula_tibialis,
+		152	Oribatula_longelamellata,
+		153	Lucoppia_burrowsi,
+		154	Zygoribatula_frisiae,
+		155	Zygoribatula_thalassophila,
+		156	Zygoribatula_undulata,
+		157	Zygoribatula_excavata,
+		158	Phauloppia_nemoralis,
+		159	Phauloppia_coineaui,
+		160	Phauloppia_lucorum,
+		161	Phauloppia_rauschenensis,
+		162	Podoribates_longipes,
+		163	Truncopes_optatus,
+		164	Transoribates_lagenula,
+		165	Protoribates_sp.,
+		166	Protoribates_dentatus,
+		167	Protoribates_capucinus,
+		168	Transoribates_latus,
+		169	Protoribates_monodactylus,
+		170	Protoribates_obtusus,
+		171	Protoribates_vastus,
+		172	Hemileius_eperezinigoae,
+		173	Hemileius_robustus,
+		174	Hemileius_initialis,
+		175	Hemileius_scrobina,
+		176	Hemileius_translamellatus,
+		177	Hemileius_elongatus,
+		178	Eupelops_sp.,
+		179	Eupelops_meridionalis,
+		180	Eupelops_bilobus,
+		181	Eupelops_tardus,
+		182	Eupelops_hygrophilus,
+		183	Eupelops_ureaceus,
+		184	Eupelops_subexutus,
+		185	Eupelops_farinosus,
+		186	Eupelops_siculus,
+		187	Eupelops_variatus,
+		188	Eupelops_occultus,
+		189	Eupelops_strenzkei,
+		190	Eupelops_geminus,
+		191	Eupelops_halophilus,
+		192	Eupelops_acromios,
+		193	Eupelops_subuliger,
+		194	Eupelops_nepotulus,
+		195	Eupelops_claviger,
+		196	Eupelops_somalicus,
+		197	Eupelops_torulosus,
+		198	Eupelops_septentrionalis,
+		199	Eupelops_major,
+		200	Eupelops_plicatus,
+		201	Eupelops_hirtus,
+		202	Eupelops_sulcatus,
+		203	Peloptulus_sp.,
+		204	Peloptulus_ibericus,
+		205	Peloptulus_trinacriae,
+		206	Peloptulus_sacculiferus,
+		207	Peloptulus_montanus,
+		208	Peloptulus_phaenotus,
+		209	Peloptulus_gibbus,
+		210	Peloptulus_reticulatus,
+		211	Oribatella_sp.,
+		212	Oribatella_superbula,
+		213	Oribatella_sexdentata,
+		214	Oribatella_tridactyla,
+		215	Oribatella_tenuis,
+		216	Oribatella_exilicornis,
+		217	Oribatella_berlesei,
+		218	Oribatella_longispina,
+		219	Oribatella_dudichi,
+		220	Oribatella_ornata,
+		221	Oribatella_hungarica,
+		222	Oribatella_pulchra,
+		223	Oribatella_nigra,
+		224	Oribatella_similesuperbula,
+		225	Oribatella_euthricha,
+		226	Oribatella_colchica,
+		227	Oribatella_parvula,
+		228	Oribatella_litoralis,
+		229	Oribatella_quadricornuta,
+		230	Oribatella_arctica,
+		231	Oribatella_reticulata,
+		232	Oribatella_calcarata,
+		233	Oribatella_brevicuspidis,
+		234	Tectoribates_sp.,
+		235	Tectoribates_proximus,
+		236	Tectoribates_ornatus,
+		237	Joelia_fiorii,
+		238	Ophidiotrichus_sp.,
+		239	Ophidiotrichus_vindobonensis,
+		240	Ophidiotrichus_oglasae,
+		241	Ophidiotrichus_connexus,
+		242	Pseudotectoribates_subsimilis,
+		243	Pseudotectoribates_minidentatus,
+		244	Galumna_sp.,
+		245	Galumna_sivashensis,
+		246	Galumna_apscheronnii,
+		247	Pergalumna_sp.,
+		248	Pergalumna_emarginata,
+		249	Pergalumna_myrmophila,
+		250	Pergalumna_willmanni,
+		251	Pergalumna_nervosa,
+		252	Pergalumna_formicaria,
+		253	Pergalumna_minor,
+		254	Pergalumna_altera,
+		255	Allogalumna_sp.,
+		256	Allogalumna_alamellae,
+		257	Allogalumna_italica,
+		258	Allogalumna_parva,
+		259	Allogalumna_integer,
+		260	Galumna_rossica,
+		261	Galumna_iranensis,
+		262	Galumna_dimorpha,
+		263	Pergalumna_dorsalis,
+		264	Galumna_tarsipennata,
+		265	Galumna_gibbula,
+		266	Galumna_obvia,
+		267	Galumna_europaea,
+		268	Galumna_flagellata,
+		269	Galumna_elimata,
+		270	Galumna_lanceata,
+		271	Galumna_alata,
+		272	Acrogalumna_longipluma,
+		273	Acrogalumna_adjarica,
+		274	Psammogalumna_thysanura,
+		275	Psammogalumna_sp.,
+		276	Pilogalumna_sp.,
+		277	Pilogalumna_ornatula,
+		278	Pilogalumna_boevi,
+		279	Pilogalumna_crassiclava,
+		280	Galumna_tenuiclavus,
+		281	Dicatozetes_uropygium,
+		282	Neoribates_aurantiacus,
+		283	Neoribates_bulanovae,
+		284	Damaeus_sp.,
+		285	Epidamaeus_sp.,
+		286	Damaeus_flagellifer,
+		287	Epidamaeus_berlesei,
+		288	Damaeus_torquisetosus,
+		289	Damaeus_maximus,
+		290	Epidamaeus_bituberculatus,
+		291	Damaeus_onustus,
+		292	Damaeus_riparius,
+		293	Damaeus_gracilipes,
+		294	Damaeus_crispatus,
+		295	Epidamaeus_kamaensis,
+		296	Damaeus_clavipes,
+		297	Damaeus_auritus,
+		298	Epidamaeus_tatricus,
+		299	Damaeus_brevitibialis,
+		300	Metabelba_sp.,
+		301	Metabelba_propexa,
+		302	Metabelba_flagelliseta,
+		303	Metabelba_platynota,
+		304	Metabelba_sphagni,
+		305	Metabelba_papillipes,
+		306	Metabelba_pulverosa,
+		307	Metabelba_rhodendorfi,
+		308	Metabelba_pulverulenta,
+		309	Neobelba_pseudopapillipes,
+		310	Metabelba_italica,
+		311	Metabelba_rhodopeia,
+		312	Damaeus_romandiolae,
+		313	Metabelba_parapulverosa,
+		314	Metabelba_ericius,
+		315	Belba_sp.,
+		316	Belba_minuta,
+		317	Belba_meridionalis,
+		318	Belba_compta,
+		319	Belba_dubinini,
+		320	Belba_patelloides,
+		321	Belba_bartosi,
+		322	Belba_verrucosa,
+		323	Belba_sculpta,
+		324	Belba_corynopus,
+		325	Porobelba_spinosa,
+		326	Porobelba_grandjeanica,
+		327	Nortonbelba_italica,
+		328	Kunstidamaeus_nidicola,
+		329	Kunstidamaeus_tecticola,
+		330	Kunstidamaeus_diversipilis,
+		331	Belbodamaeus_tuberculatus,
+		332	Spatiodamaeus_fageti,
+		333	Spatiodamaeus_boreus,
+		334	Spatiodamaeus_verticillipes,
+		335	Subbelba_partiocrispa,
+		336	Metabelbella_tichonravovi,
+		337	Metabelbella_janae,
+		338	Metabelbella_zachvatkini,
+		339	Metabelbella_macerochaeta,
+		340	Metabelbella_interlamellaris,
+		341	Tectocepheus_sp.,
+		342	Tectocepheus_minor,
+		343	Tectocepheus_punctulatus,
+		344	Tectocepheus_tenuis,
+		345	Tectocepheus_velatus,
+		346	Tectocepheus_sarekensis,
+		347	Tectocepheus_alatus,
+		348	Tectocepheus_knullei,
+		349	Austrocarabodes_ensifer,
+		350	Austrocarabodes_foliaceisetus,
+		351	Austrocarabodes_arrogans,
+		352	Odontocepheus_hungaricus,
+		353	Odontocepheus_elongatus,
+		354	Odontocepheus_espatulatus,
+		355	Carabodes_sp.,
+		356	Carabodes_csikii,
+		357	Carabodes_reticulatus,
+		358	Carabodes_quadrangulus,
+		359	Carabodes_similis,
+		360	Carabodes_hungaricus,
+		361	Carabodes_labyrinthicus,
+		362	Carabodes_ornatus,
+		363	Carabodes_willmanni,
+		364	Carabodes_minusculus,
+		365	Carabodes_grandjeani,
+		366	Carabodes_rugosior,
+		367	Carabodes_translamellatus,
+		368	Carabodes_poggii,
+		369	Carabodes_schatzi,
+		370	Carabodes_hispanicus,
+		371	Carabodes_arduinii,
+		372	Carabodes_manganoi,
+		373	Carabodes_aerolatus,
+		374	Carabodes_femoralis,
+		375	Carabodes_dissimilis,
+		376	Carabodes_offinis,
+		377	Carabodes_coriaceus,
+		378	Carabodes_tenuis,
+		379	Carabodes_tyrrhenicus,
+		380	Carabodes_perezinigoi,
+		381	Carabodes_subarcticus,
+		382	Carabodes_marginatus,
+		383	Hermanniella_sp.,
+		384	Hermanniella_granulata,
+		385	Hermanniella_punctulata,
+		386	Hermanniella_picea,
+		387	Hermanniella_dolosa,
+		388	Hermanniella_aliverdievae,
+		389	Hermanniella_septentrionalis,
+		390	Cepheus_tuberculosus,
+		391	Cepheus_sp.,
+		392	Cepheus_grandis,
+		393	Cepheus_dentatus,
+		394	Cepheus_latus,
+		395	Cepheus_cepheiformis,
+		396	Tritegeus_bifidatus,
+		397	Tritegeus_bisulcatus,
+		398	Parachipteria_sp.,
+		399	Pseudachipteria_sp.,
+		400	Parachipteria_fanzagoi,
+		401	Parachipteria_punctata,
+		402	Pseudachipteria_magna,
+		403	Parachipteria_nicoleti,
+		404	Parachipteria_willmanni,
+		405	Cerachipteria_minuscula,
+		406	Cerachipteria_digita,
+		407	Parachipteria_perproxima,
+		408	Parachipteria_bella,
+		409	Parachipteria_petiti,
+		410	Parachipteria_georgica,
+		411	Parachipteria_snowdonensis,
+		412	Campachipteria_patavina,
+		413	Anachipteria_shtanchaevae,
+		414	Anachipteria_sp.,
+		415	Anachipteria_dubia,
+		416	Anachipteria_alpina,
+		417	Anachipteria_deficiens,
+		418	Anachipteria_howardi,
+		419	Achipteria_sp.,
+		420	Achipteria_coleoptrata,
+		421	Achipteria_nitens,
+		422	Achipteria_italica,
+		423	Achipteria_oudemansi,
+		424	Achipteria_quadridentata,
+		425	Achipteria_sellnicki,
+		426	Tegoribates_latirostris,
+		427	Lepidozetes_singularis,
+		428	Lepidozetes_chernovi,
+		429	Kaszabobates_kaszabi,
+		430	Pantelozetes_sp.,
+		431	Pantelozetes_paolii,
+		432	Pantelozetes_multidentata,
+		433	Montizetes_alpestris,
+		434	Montizetes_abulensis,
+		435	Mycobates_sp.,
+		436	Mycobates_monodactylus,
+		437	Mycobates_bicornis,
+		438	Mycobates_alpinus,
+		439	Mycobates_cambricus,
+		440	Mycobates_tridactylus,
+		441	Mycobates_carli,
+		442	Mycobates_sarekensis,
+		443	Mycobates_parmeliae,
+		444	Zachvatkinibates_quadrivertex,
+		445	Zachvatkinibates_nemoralis,
+		446	Humerobates_rostrolamellatus,
+		447	Humerobates_translamellatus,
+		448	Chamobates_sp.,
+		449	Chamobates_roynortoni,
+		450	Chamobates_boresetosus,
+		451	Chamobates_latissimus,
+		452	Chamobates_rastratus,
+		453	Chamobates_interpositus,
+		454	Chamobates_voigtsi,
+		455	Chamobates_caucasicus,
+		456	Chamobates_confusus,
+		457	Chamobates_dentotutorii,
+		458	Chamobates_cuspidatus,
+		459	Chamobates_schuetzi,
+		460	Chamobates_perezinigoi,
+		461	Chamobates_cuspidatiformis,
+		462	Chamobates_sergienkoae,
+		463	Chamobates_pusillus,
+		464	Chamobates_borealis,
+		465	Chamobates_subglobulus,
+		466	Chamobates_birulai,
+		467	Globozetes_longipilus,
+		468	Punctoribates_sp.,
+		469	Punctoribates_schachtachtinskoi,
+		470	Minunthozetes_sp.,
+		471	Punctoribates_zachvatkini,
+		472	Semipunctoribates_astrachanicus,
+		473	Minunthozetes_quadriareatus,
+		474	Minunthozetes_pseudofusiger,
+		475	Minunthozetes_semirufus,
+		476	Minunthozetes_tarmani,
+		477	Minunthozetes_reticulatus,
+		478	Punctoribates_sphaericus,
+		479	Punctoribates_liber,
+		480	Punctoribates_mundus,
+		481	Punctoribates_sellnicki,
+		482	Punctoribates_latilobatus,
+		483	Punctoribates_punctum,
+		484	Punctoribates_minimus,
+		485	Punctoribates_angulatus,
+		486	Punctoribates_moldavicus,
+		487	Punctoribates_hexagonus,
+		488	Ceratozetes_sp.,
+		489	Ceratozetes_bulanovae,
+		490	Ceratozetes_spiculatus,
+		491	Melanozetes_sp.,
+		492	Melanozetes_sellnicki,
+		493	Melanozetes_stagnatilis,
+		494	Melanozetes_interruptus,
+		495	Melanozetes_mollicomus,
+		496	Melanozetes_meridianus,
+		497	Diapterobates_sp.,
+		498	Diapterobates_oblongus,
+		499	Diapterobates_notatus,
+		500	Diapterobates_humeralis,
+		501	Diapterobates_variabilis,
+		502	Svalbardia_paludicola,
+		503	Sphaerozetes_piriformis,
+		504	Sphaerozetes_tricuspidatus,
+		505	Sphaerozetes_orbicularis,
+		506	Fuscozetes_sp.,
+		507	Fuscozetes_intermedius,
+		508	Fuscozetes_fuscipes,
+		509	Fuscozetes_setosus,
+		510	Fuscozetes_pseudosetosus,
+		511	Protozetomimus_acutirostris,
+		512	Zetomimus_furcatus,
+		513	Zetomimus_boothianus,
+		514	Jugatala_cribelliger,
+		515	Jugatala_angulata,
+		516	Iugoribates_cornutus,
+		517	Iugoribates_sp.,
+		518	Edwardzetes_edwardsi,
+		519	Ceratozetes_aragonensis,
+		520	Ceratozetes_contiguus,
+		521	Ceratozetes_psammophilus,
+		522	Ceratozetes_simulator,
+		523	Ceratozetes_mediocris,
+		524	Ceratozetes_minutissimus,
+		525	Ceratozetes_parvulus,
+		526	Ceratozetes_peritus,
+		527	Ceratozetes_gracilis,
+		528	Ceratozetes_conjunctus,
+		529	Ceratozetes_minimus,
+		530	Ceratozetes_nanus,
+		531	Ceratozetes_armatus,
+		532	Ceratozetes_lagrecai,
+		533	Ceratozetes_laticuspidatus,
+		534	Oromurcia_sudetica,
+		535	Oromurcia_bicuspidata,
+		536	Ceratozetes_sellnicki,
+		537	Ceratozetes_thienemanni,
+		538	Ceratozetes_venusta,
+		539	Ceratozetoides_cisalpinus,
+		540	Ceratozetoides_maximus,
+		541	Trichoribates_caucasicus,
+		542	Trichoribates_sp.,
+		543	Trichoribates_angustatus,
+		544	Latilamellobates_algarvensis,
+		545	Trichoribates_scilierensis,
+		546	Trichoribates_incisellus,
+		547	Latilamellobates_clavatus,
+		548	Trichoribates_novus,
+		549	Trichoribates_punctatus,
+		550	Trichoribates_latelamellatus,
+		551	Trichoribates_monticola,
+		552	Trichoribates_trimaculatus,
+		553	Euzetes_sp.,
+		554	Euzetes_globulus,
+		555	Euzetes_seminulum,
+		556	Unduloribates_undulatus,
+		557	Latovertex_laticuspis,
+		558	Scutovertex_sp.,
+		559	Scutovertex_bulgaricus,
+		560	Scutovertex_sculptus,
+		561	Scutovertex_perforatulus,
+		562	Scutovertex_minutus,
+		563	Scutovertex_arenocolus,
+		564	Scutovertex_serratus,
+		565	Scutovertex_granulatus,
+		566	Lamellovertex_caelatus,
+		567	Passalozetes_sp.,
+		568	Passalozetes_intermedius,
+		569	Passalozetes_strenzkei,
+		570	Passalozetes_perforatus,
+		571	Passalozetes_africanus,
+		572	Passalozetes_inlenticulatus,
+		573	Passalozetes_agricola,
+		574	Passalozetes_hispanicus,
+		575	Micreremus_gracilior,
+		576	Micreremus_brevipes,
+		577	Limnozetes_sp.,
+		578	Limnozetes_rugosus,
+		579	Limnozetes_palmerae,
+		580	Limnozetes_ciliatus,
+		581	Limnozetes_lustrum,
+		582	Limnozetes_amnicus,
+		583	Hydrozetes_longisetosus,
+		584	Hydrozetes_thienemanni,
+		585	Hydrozetes_lemnae,
+		586	Hydrozetes_parisiensis,
+		587	Hydrozetes_lacustris,
+		588	Hydrozetes_confervae,
+		589	Dorycranosus_keretinus,
+		590	Adoristes_poppei,
+		591	Adoristes_ovatus,
+		592	Adoristes_krivolutskyi,
+		593	Liacarus_subnitens,
+		594	Liacarus_sp.,
+		595	Liacarus_brevilamellatus,
+		596	Liacarus_nitens,
+		597	Liacarus_oribatelloides,
+		598	Liacarus_subterraneus,
+		599	Dorycranosus_curtipilis,
+		600	Liacarus_coracinus,
+		601	Dorycranosus_acutus,
+		602	Dorycranosus_punctulatus,
+		603	Liacarus_perezinigoi,
+		604	Dorycranosus_splendens,
+		605	Liacarus_xylariae,
+		606	Dorycranosus_zachvatkini,
+		607	Xenillus_sp.,
+		608	Xenillus_discrepans,
+		609	Xenillus_occultus,
+		610	Xenillus_ybarrai,
+		611	Xenillus_clavatopilus,
+		612	Xenillus_setosus,
+		613	Xenillus_salamoni,
+		614	Xenillus_clypeator,
+		615	Xenillus_tegeocranus,
+		616	Gustavia_oceanica,
+		617	Gustavia_microcephala,
+		618	Gustavia_fusifer,
+		619	Hafenrefferia_gilvipes,
+		620	Furcoribula_furcillata,
+		621	Phauloppia_pilosa,
+		622	Cultroribula_sp.,
+		623	Cultroribula_bicultrata,
+		624	Cultroribula_juncta,
+		625	Pyroppia_sp.,
+		626	Pyroppia_tajikistanica,
+		627	Pyroppia_lanceolata,
+		628	Ceratoppia_sp.,
+		629	Ceratoppia_sphaerica,
+		630	Ceratoppia_quadridentata,
+		631	Ceratoppia_bipilis,
+		632	Ceratoppia_sexpilosa,
+		633	Parapyroppia_monodactyla,
+		634	Ameronothrus_lineatus,
+		635	Ameronothrus_schneideri,
+		636	Ameronothrus_maculatus,
+		637	Ameronothrus_nigrofemoratus,
+		638	Ameronothrus_marinus,
+		639	Arthrodamaeus_sp.,
+		640	Gymnodamaeus_barbarossa,
+		641	Gymnodamaeus_bicostatus,
+		642	Gymnodamaeus_mongolica,
+		643	Arthrodamaeus_femoratus,
+		644	Arthrodamaeus_reticulatus,
+		645	Arthrodamaeus_mediterraneus,
+		646	Gymnodamaeus_helveticus,
+		647	Arthrodamaeus_starki,
+		648	Plesiodamaeus_ornatus,
+		649	Eremaeus_sp.,
+		650	Tricheremaeus_serratus,
+		651	Tricheremaeus_sp.,
+		652	Eueremaeus_sp.,
+		653	Eueremaeus_oblongus,
+		654	Eueremaeus_quadrilamellatus,
+		655	Eremaeus_travei,
+		656	Eueremaeus_silvestris_,
+		657	Eueremaeus_foveolatus,
+		658	Eueremaeus_marshalli,
+		659	Eueremaeus_valkanovi,
+		660	Eueremaeus_masinasin,
+		661	Eremaeus_cordiformis,
+		662	Eremaeus_hepaticus,
+		663	Eremaeus_tuberosus,
+		664	Autogneta_sp.,
+		665	Autogneta_parva,
+		666	Autogneta_longilamellata,
+		667	Conchogneta_sp.,
+		668	Conchogneta_traegardhi,
+		669	Conchogneta_dalecarlica,
+		670	Quadroppia_sp.,
+		671	Quadroppia_media,
+		672	Quadroppia_omodeoi,
+		673	Quadroppia_michaeli,
+		674	Quadroppia_galaica,
+		675	Quadroppia_quadricarinata,
+		676	Quadroppia_pseudocircumita,
+		677	Quadroppia_monstruosa,
+		678	Quadroppia_longisetosa,
+		679	Quadroppia_ritza,
+		680	Quadroppia_hammerae,
+		681	Quadroppia_bellula,
+		682	Coronoquadroppia_abchasica,
+		683	Suctobelbata_truncicola,
+		684	Suctobelbata_prelli,
+		685	Suctobelbella_sp.,
+		686	Suctobelbella_pilososetosa,
+		687	Suctobelbella_longirostris,
+		688	Suctobelbella_lobata,
+		689	Suctobelbella_longicuspis,
+		690	Suctobelbella_opistodentata,
+		691	Suctobelbella_nasalis,
+		692	Suctobelbella_elegantula,
+		693	Suctobelbella_moritzi,
+		694	Suctobelbella_falcata,
+		695	Suctobelbella_alloenasuta,
+		696	Suctobelbella_bella,
+		697	Suctobelbella_perforata,
+		698	Suctobelbella_carcharodon,
+		699	Suctobelbella_arcana,
+		700	Suctobelbella_prominens,
+		701	Suctobelbella_hammerae,
+		702	Suctobelbella_nana,
+		703	Suctobelbella_baloghi,
+		704	Suctobelbella_similis,
+		705	Suctobelbella_singularis,
+		706	Suctobelbella_italica,
+		707	Suctobelbella_maculata,
+		708	Suctobelbella_messneri,
+		709	Suctobelbella_duplex,
+		710	Suctobelbella_tuberculata,
+		711	Suctobelbella_forsslundi,
+		712	Suctobelbella_palustris,
+		713	Suctobelbella_subtrigona,
+		714	Suctobelbella_latirostris,
+		715	Suctobelbella_subcornigera,
+		716	Suctobelbella_hamata,
+		717	Suctobelbella_vera,
+		718	Suctobelbella_sarekensis,
+		719	Suctobelbella_acutidens,
+		720	Allosuctobelba_grandis,
+		721	Allosuctobelba_sp.,
+		722	Suctobelba_sp.,
+		723	Suctobelba_discrepans,
+		724	Suctobelba_lapidaria,
+		725	Suctobelba_altvateri,
+		726	Suctobelba_consimilis,
+		727	Suctobelba_secta,
+		728	Suctobelba_trigona,
+		729	Suctobelba_reticulata,
+		730	Suctobelba_atomaria,
+		731	Suctobelba_regia,
+		732	Suctobelba_aliena,
+		733	Suctobelba_granulata,
+		734	Caleremaeus_monilipes,
+		735	Banksinoma_islandica,
+		736	Banksinoma_borealis,
+		737	Banksinoma_lanceolata,
+		738	Banksinoma_setosa,
+		739	Oribella_castanea,
+		740	Oribella_pectinata,
+		741	Oribella_matritensis,
+		742	Machuella_ventrisetosa,
+		743	Machuella_bilineata,
+		744	Machuella_draconis,
+		745	Oppiella_oreia,
+		746	Oppiella_acuminata,
+		747	Oppia_sp.,
+		748	Oppiella_tenuipectinata,
+		749	Oppiella_vera,
+		750	Oppiella_marginedentata,
+		751	Oppiella_media,
+		752	Oppiella_motasi,
+		753	Oppiella_sp.,
+		754	Oppia_chilinofuncta,
+		755	Oppia_arabica,
+		756	Berniniella_sp.,
+		757	Berniniella_minuta,
+		758	Berniniella_aeoliana,
+		759	Berniniella_sigma,
+		760	Berniniella_serratirostris,
+		761	Berniniella_azerbeidjanica,
+		762	Berniniella_robusta,
+		763	Berniniella_inornata,
+		764	Berniniella_parasigma,
+		765	Berniniella_carinatissima,
+		766	Berniniella_lunaris,
+		767	Berniniella_dungeri,
+		768	Berniniella_bicarinata,
+		769	Berniniella_conjuncta,
+		770	Berniniella_setilonga,
+		771	Berniniella_intrudens,
+		772	Neotrichoppia_confinis,
+		773	Berniniella_latidens,
+		774	Berniniella_hauseri,
+		775	Ramuselloppia_anomala,
+		776	Ramusella_sp.,
+		777	Ramusella_sahariensis,
+		778	Ramusella_eduardoi,
+		779	Ramusella_puertomonttensis,
+		780	Ramusella_terricola,
+		781	Ramusella_gyrata,
+		782	Ramusella_elongata,
+		783	Ramusella_furcata,
+		784	Ramusella_clavipectinata,
+		785	Ramusella_junonis,
+		786	Ramusella_insculpta,
+		787	Ramusella_bagnalli,
+		788	Ramusella_subiasi,
+		789	Ramusella_elliptica,
+		790	Ramusella_strinatii,
+		791	Ramusella_fasciata,
+		792	Ramusella_sengbuschi,
+		793	Ramusella_anuncata,
+		794	Ramusella_varians,
+		795	Ramusella_mihelcici,
+		796	Ramusella_assimiloides,
+		797	Oxyoppia_sp.,
+		798	Pluritrichoppia_insolita,
+		799	Oxyoppioides_decipiens,
+		800	Oxyoppioides_sp.,
+		801	Joboppia_dichosa,
+		802	Taiwanoppia_mercedesae,
+		803	Oxyoppia_intermedia,
+		804	Oxyoppia_yepesensis,
+		805	Serratoppia_sp.,
+		806	Serratoppia_duffyi,
+		807	Serratoppia_intermedia,
+		808	Serratoppia_minima,
+		809	Lucoppia_feideri,
+		810	Oppiella_falcata,
+		811	Oppiella_maritima,
+		812	Oxyoppia_europaea,
+		813	Subiasella_quadrimaculata,
+		814	Subiasella_lamellata,
+		815	Dissorhina_shqipetarica,
+		816	Dissorhina_corniculata,
+		817	Dissorhina_longipilosa,
+		818	Dissorhina_signata,
+		819	Dissorhina_ornata,
+		820	Multioppia_excisa,
+		821	Multioppia_sp.,
+		822	Multioppia_glabra,
+		823	Multioppia_moritzi,
+		824	Multioppia_perfecta,
+		825	Multioppia_laniseta,
+		826	Multioppia_neglecta,
+		827	Multioppia_pulchra,
+		828	Multioppia_carpatica,
+		829	Multioppia_wilsoni,
+		830	Microppia_minus,
+		831	Hypogeoppia_sp.,
+		832	Hypogeoppia_hypogea,
+		833	Hypogeoppia_exempta,
+		834	Hypogeoppia_terricola,
+		835	Graptoppia_paraanalis,
+		836	Graptoppia_neonominata,
+		837	Graptoppia_foveolata,
+		838	Microppia_longisetosa,
+		839	Lasiobelba_decui,
+		840	Lasiobelba_kuehnelti,
+		841	Oppia_arcidiaconoae,
+		842	Corynoppia_foliatoides,
+		843	Corynoppia_kosarovi,
+		844	Oppiella_subpectinata,
+		845	Anomaloppia_differens,
+		846	Anomaloppia_sp.,
+		847	Discoppia_cylindrica,
+		848	Pulchroppiella_litttlewoodi,
+		849	Pulchroppiella_plurisetosa,
+		850	Oppiella_nasuta,
+		851	Oppia_elongata,
+		852	Oppia_denticulata,
+		853	Oppia_nitens,
+		854	Oppia_myrmecophila,
+		855	Oppiella_uliginosa,
+		856	Oppiella_obscura,
+		857	Oppiella_hygrophila,
+		858	Oppiella_propinqua,
+		859	Oppiella_beskidyensis,
+		860	Oppiella_obsoleta,
+		861	Oppiella_baburini,
+		862	Oppiella_neerlandica,
+		863	Oppiella_nova,
+		864	Oppiella_loksai,
+		865	Oppiella_fallax,
+		866	Oppiella_unicarinata,
+		867	Oppiella_doris,
+		868	Oppiella_translamellata,
+		869	Oppiella_splendens,
+		870	Oppiella_escotata,
+		871	Oppiella_hauseri,
+		872	Oppiella_keilbachi,
+		873	Oppiella_similifallax,
+		874	Kulievia_paradecipiens,
+		875	Nanhermannia_sp.,
+		876	Nanhermannia_comitalis,
+		877	Nanhermannia_sellnicki,
+		878	Nanhermannia_nana,
+		879	Nanhermannia_elegantula,
+		880	Nanhermannia_coronata,
+		881	Masthermannia_mammillaris,
+		882	Nothrus_sp.,
+		883	Platynothrus_sp.,
+		884	Heminothrus_sp.,
+		885	Heminothrus_paoliianus,
+		886	Heminothrus_longisetosus,
+		887	Platynothrus_fluviatilis,
+		888	Platynothrus_capillatus,
+		889	Heminothrus_targionii,
+		890	Neonothrus_humicolus,
+		891	Platynothrus_thori,
+		892	Platynothrus_peltifer,
+		893	Platynothrus_punctatus,
+		894	Camisia_sp.,
+		895	Camisia_solhoeyi,
+		896	Camisia_spinifer,
+		897	Nothrus_umbratilis,
+		898	Camisia_biurus,
+		899	Camisia_invenusta,
+		900	Camisia_segnis,
+		901	Camisia_foveolata,
+		902	Camisia_horrida,
+		903	Camisia_biverrucata,
+		904	Nothrus_biciliatus,
+		905	Nothrus_borussicus,
+		906	Nothrus_pratensis,
+		907	Nothrus_silvestris,
+		908	Nothrus_palustris,
+		909	Nothrus_longipilus,
+		910	Nothrus_parvus,
+		911	Haplochthonius_sp.,
+		912	Haplochthonius_sanctaeluciae,
+		913	Haplochthonius_simplex,
+		914	Haplochthonius_clavatus,
+		915	Trhypochthoniellus_longisetus,
+		916	Trhypochthoniellus_setosus,
+		917	Trhypochthonius_tectorum,
+		918	Trhypochthonius_japonicus,
+		919	Trhypochthonius_nigricans,
+		920	Trhypochthonius_cladonicola,
+		921	Mainothrus_badius,
+		922	Mucronothrus_nasalis,
+		923	Malaconothrus_sp.,
+		924	Malaconothrus_processus,
+		925	Malaconothrus_purvisi,
+		926	Malaconothrus_angulatus,
+		927	Malaconothrus_monodactylus,
+		928	Malaconothrus_scutatus,
+		929	Trimalaconothrus_angulatus,
+		930	Trimalaconothrus_glaber,
+		931	Trimalaconothrus_foveolatus,
+		932	Trimalaconothrus_maior,
+		933	Trimalaconothrus_tardus,
+		934	Trimalaconothrus_vietsi,
+		935	Trimalaconothrus_sculptus,
+		936	Hermannia_sp.,
+		937	Hermannia_convexa,
+		938	Hermannia_gibba,
+		939	Hermannia_reticulata,
+		940	Hermannia_scabra,
+		941	Hermannia_pulchella,
+		942	Hermannia_subglabra,
+		943	Bursoplophora_insularis,
+		944	Bursoplophora_iberica,
+		945	Bursoplophora_meridionalis,
+		946	Bursoplophora_tyrrhenica,
+		947	Protoplophora_palpalis,
+		948	Cryptoplophora_abscondita,
+		949	Eniochthonius_minutissimus,
+		950	Hypochthonius_luteus,
+		951	Hypochthonius_rufulus,
+		952	Atopochthonius_artiodactylus,
+		953	Synchthonius_elegans,
+		954	Synchthonius_crenulatus,
+		955	Neoliochthonius_occultus,
+		956	Neoliochthonius_piluliferus,
+		957	Mixochthonius_pilososetosus,
+		958	Brachychthonius_impressus,
+		959	Brachychthonius_hirtus,
+		960	Brachychthonius_berlesei,
+		961	Brachychthonius_pseudoimmaculatus,
+		962	Brachychthonius_bimaculatus,
+		963	Brachychthonius_pius,
+		964	Eobrachychthonius_latior,
+		965	Eobrachychthonius_borealis,
+		966	Eobrachychthonius_oudemansi,
+		967	Sellnickochthonius_hungaricus,
+		968	Sellnickochthonius_chinonei,
+		969	Sellnickochthonius_immaculatus,
+		970	Sellnickochthonius_fuentesi,
+		971	Sellnickochthonius_dolosus,
+		972	Sellnickochthonius_jugatus,
+		973	Sellnickochthonius_jacoti,
+		974	Sellnickochthonius_formosus,
+		975	Sellnickochthonius_zelawaiensis,
+		976	Sellnickochthonius_suecicus,
+		977	Sellnickochthonius_gracilis,
+		978	Sellnickochthonius_honestus,
+		979	Sellnickochthonius_rostratus,
+		980	Sellnickochthonius_cricoides,
+		981	Sellnickochthonius_meridionalis,
+		982	Neobrachychthonius_marginatus,
+		983	Neobrachychthonius_magnus,
+		984	Verachthonius_laticeps,
+		985	Liochthonius_sp.,
+		986	Liochthonius_strenzkei,
+		987	Liochthonius_evansi,
+		988	Liochthonius_dilutus,
+		989	Liochthonius_perfusorius,
+		990	Liochthonius_furcillatus,
+		991	Liochthonius_horridus,
+		992	Liochthonius_muscorum,
+		993	Liochthonius_brevis,
+		994	Liochthonius_propinquus,
+		995	Liochthonius_neglectus,
+		996	Liochthonius_tuxeni,
+		997	Liochthonius_hystricinus,
+		998	Liochthonius_clavatus,
+		999	Liochthonius_leptaleus,
+		1000	Liochthonius_perelegans,
+		1001	Liochthonius_gisini,
+		1002	Liochthonius_laetepictus,
+		1003	Liochthonius_peduncularis,
+		1004	Liochthonius_alpestris,
+		1005	Liochthonius_sellnicki,
+		1006	Liochthonius_simplex,
+		1007	Liochthonius_lapponicus,
+		1008	Poecilochthonius_italicus,
+		1009	Poecilochthonius_spiciger,
+		1010	Mesoplophora_michaeliana,
+		1011	Mesoplophora_pulchra,
+		1012	Sphaerochthonius_splendidus,
+		1013	Sphaerochthonius_pallidus,
+		1014	Phyllozetes_tauricus,
+		1015	Phyllozetes_emmae,
+		1016	Krivolutskiella_sp.,
+		1017	Cosmochthonius_sp.,
+		1018	Cosmochthonius_tenuisetus,
+		1019	Cosmochthonius_lanatus,
+		1020	Cosmochthonius_plumatus,
+		1021	Cosmochthonius_reticulatus,
+		1022	Cosmochthonius_perezinigoi,
+		1023	Cosmochthonius_ponticus,
+		1024	Cosmochthonius_foliatus,
+		1025	Cosmochthonius_semifoveolatus,
+		1026	Eulohmannia_ribagai,
+		1027	Epilohmannia_sp.,
+		1028	Epilohmannia_styriaca,
+		1029	Epilohmannia_minima,
+		1030	Epilohmannia_imreorum,
+		1031	Epilohmannia_schusteri,
+		1032	Epilohmannia_cylindrica,
+		1033	Perlohmannia_sp.,
+		1034	Perlohmannia_dissimilis,
+		1035	Perlohmannia_insignis,
+		1036	Thamnacarus_longisetosus,
+		1037	Thamnacarus_sp.,
+		1038	Papillacarus_aciculatus,
+		1039	Papillacarus_pseudoaciculatus,
+		1040	Lohmannia_hungarorum,
+		1041	Lohmannia_paradoxa,
+		1042	Cryptacarus_promecus,
+		1043	Acrotritia_sp.,
+		1044	Acrotritia_duplicata,
+		1045	Acrotritia_curticephala,
+		1046	Acrotritia_hyeroglyphica,
+		1047	Acrotritia_simile,
+		1048	Acrotritia_ardua,
+		1049	Euphthiracarus_sp.,
+		1050	Euphthiracarus_monodactylus,
+		1051	Euphthiracarus_cribrarius,
+		1052	Euphthiracarus_reticulatus,
+		1053	Microtritia_minima,
+		1054	Microtritia_sp.,
+		1055	Oribotritia_sp.,
+		1056	Oribotritia_loricata,
+		1057	Oribotritia_bagnalli,
+		1058	Oribotritia_berlesei,
+		1059	Protoribotritia_oligotricha,
+		1060	Paratritia_baloghi,
+		1061	Indotritia_zangherii,
+		1062	Mesotritia_flagelliformis,
+		1063	Mesotritia_nuda,
+		1064	Steganacarus_sp.,
+		1065	Steganacarus_carusoi,
+		1066	Steganacarus_magnus,
+		1067	Steganacarus_carinatus,
+		1068	Steganacarus_boulfekhari,
+		1069	Steganacarus_personatus,
+		1070	Steganacarus_brevipilus,
+		1071	Steganacarus_applicatus,
+		1072	Steganacarus_simonettae,
+		1073	Steganacarus_spinosus,
+		1074	Steganacarus_patruelis,
+		1075	Steganacarus_herculeanus,
+		1076	Steganacarus_hirsutus,
+		1077	Steganacarus_incognitus,
+		1078	Steganacarus_michaeli,
+		1079	Atropacarus_sp.,
+		1080	Atropacarus_clavigerus,
+		1081	Atropacarus_obesus,
+		1082	Atropacarus_wandae,
+		1083	Atropacarus_genavensis,
+		1084	Atropacarus_csiszarae,
+		1085	Atropacarus_platakisi,
+		1086	Phthiracarus_opacus,
+		1087	Phthiracarus_clavatus,
+		1088	Phthiracarus_sp.,
+		1089	Phthiracarus_membranifer,
+		1090	Phthiracarus_compressus,
+		1091	Phthiracarus_bryobius,
+		1092	Phthiracarus_borealis,
+		1093	Phthiracarus_ferrugineus,
+		1094	Phthiracarus_longulus,
+		1095	Phthiracarus_testudineus,
+		1096	Phthiracarus_crenophilus,
+		1097	Phthiracarus_boresetosus,
+		1098	Phthiracarus_italicus,
+		1099	Phthiracarus_globosus,
+		1100	Phthiracarus_crassus,
+		1101	Phthiracarus_assimilis,
+		1102	Phthiracarus_piger,
+		1103	Phthiracarus_crinitus,
+		1104	Phthiracarus_tristis,
+		1105	Phthiracarus_affinis,
+		1106	Phthiracarus_serrulatus,
+		1107	Phthiracarus_dominiaki,
+		1108	Phthiracarus_lentulus,
+		1109	Phthiracarus_montanus,
+		1110	Phthiracarus_subdolus,
+		1111	Phthiracarus_subiasi,
+		1112	Phthiracarus_anonymus,
+		1113	Phthiracarus_ligneus,
+		1114	Phthiracarus_nitens,
+		1115	Phthiracarus_spadix,
+		1116	Hoplophthiracarus_pavidus,
+		1117	Austrophthiracarus_heterotrichus,
+		1118	Hoplophthiracarus_illinoisensis,
+		1119	Microzetes_custulatus,
+		1120	Microzetes_helleicus,
+		1121	Microzetes_mirandus,
+		1122	Microzetes_caucasicus,
+		1123	Microzetes_adansoni,
+		1124	Microzetes_petrocoriensis,
+		1125	Microzetes_castrii,
+		1126	Microzetes_septentrionalis,
+		1127	Berlesezetes_aegypticus,
+		1128	Berlesezetes_grandjeani,
+		1129	Berlesezetes_ornatissimus,
+		1130	Berlesezetes_auxiliaris,
+		1131	Palaeacarus_sp.,
+		1132	Palaeacarus_hystricinus,
+		1133	Palaeacarus_kamenskii,
+		1134	Beklemishevia_hispaniola,
+		1135	Beklemishevia_galeodula,
+		1136	Ctenacarus_araneola,
+		1137	Gilarovella_demetrii,
+		1138	Aphelacarus_acarinus,
+		1139	Aphelacarus_sp.,
+		1140	Adelphacarus_sellnicki,
+		1141	Acaronychus_traegardhi,
+		1142	Kodiakella_dimorpha,
+		1143	Licnobelba_sp.,
+		1144	Licnobelba_caesarea,
+		1145	Licnobelba_latiflabellata,
+		1146	Paraliochthonius_sp.
+	;
+	TREE * UNTITLED = [&R] ((1:0.9951267058,2:0.9951267058,((((3:0.0009746588694,4:0.0009746588694)Pedrocortesella:0.003898635478,(5:0.002923976741,(6:0.001949317739,(7:0.0009746588694,8:0.0009746588694):0.0009746588694):0.0009746588694,9:0.002923976608)Licnodamaeus:0.001949317739)Licnodamaeidae:0.01559454191,((10:0.008771929825,(11:0.007797270955,((12:0.0009746588694,13:0.0009746588694)Hungarobelba:0.005847953216,(14:0.004873294347,(((15:0.001949317739,(16:0.0009746588694,17:0.0009746588694)Mongaillardia:0.0009746588694):0.0009746588694,18:0.002923976608):0.0009746588694,19:0.003898635478)Amerobelbidae:0.0009746588694):0.001949317739):0.0009746588694):0.0009746588694):0.005847953216,((20:0.001949317739,(21:0.0009746588694,22:0.0009746588694)Ghilarovus:0.0009746588694)Zetomotrichidae:0.002923976608,((23:0.0009746588694,24:0.0009746588694):0.0009746588694,25:0.001949317739)Plateremaeidae:0.002923976608):0.009746588694):0.005847953216):0.0009746588694,26:0.02144249513):0.9736842105,((((27:0.0009746588694,28:0.0009746588694):0.001949317739,(29:0.0009746588694,30:0.0009746588694):0.001949317739)Licneremaeus:0.9678362573,((31:0.9658869396,(32:0.9649122807,(((((33:0.0009746588694,34:0.0009746588694)Parhypochthonioidea:0.8567251462,(((35:0.5370370372,((((36:0.0009746588694,37:0.0009746588694)Platyliodes:0.002923976608,(38:0.001949317912,(39:0.0009746588694,40:0.0009746588694):0.0009746588694,41:0.001949317739)Neoliodes:0.001949317739)Neoliodidae:0.03118908382,(((42:0.004873294347,(((43:0.001949317739,(44:0.0009746588694,45:0.0009746588694):0.0009746588694):0.0009746588694,46:0.002923976608):0.0009746588694,47:0.003898635478)Scapheremaeus:0.0009746588694)Cymbaeremaeidae:0.006822612086,((48:0.0009746588694,49:0.0009746588694):0.004873294347,(((50:0.0009746588694,51:0.0009746588694):0.001949317739,(52:0.0009746588694,53:0.0009746588694):0.001949317739):0.0009746588694,54:0.003898635478)Zetorchestes:0.001949317739)Zetorchestidae:0.005847953216):0.01851851852,((((((55:0.003898635478,(56:0.002923976733,(57:0.001949317739,(58:0.0009746588694,59:0.0009746588694):0.0009746588694):0.0009746588694,60:0.002923976608)Damaeolus:0.0009746588694)Damaeolidae:0.005847953216,((61:0.0009746588694,62:0.0009746588694)Eremulus:0.003898635478,(63:0.002923976732,64:0.002923976732,(65:0.001949317739,(66:0.0009746588694,67:0.0009746588694):0.0009746588694):0.0009746588694,68:0.002923976608)Ctenobelba:0.001949317739):0.004873294347):0.002923976608,(69:0.001949317886,(70:0.0009746588694,71:0.0009746588694):0.0009746588694,72:0.001949317739)Amerus:0.01072124756):0.0009746588694,(73:0.006822612085,74:0.006822612237)NA:0.006822612085)Ameroidea:0.002923976608,(75:0.001949317739,(76:0.0009746588694,77:0.0009746588694)Licnoliodes:0.0009746588694)Pheroliodidae:0.01461988304):0.0009746588694,78:0.01754385965):0.0126705653):0.004873294347):0.0828460039,(((((((79:0.003898635681,80:0.003898635673,((81:0.0009746588694,82:0.0009746588694):0.0009746588694,83:0.001949317739):0.001949317739,(84:0.0009746588694,85:0.0009746588694):0.002923976608)Peloribates:0.0009746588694,86:0.004873294347):0.005847953216,((87:0.003898635679,((88:0.001949317739,(89:0.0009746588694,90:0.0009746588694):0.0009746588694):0.0009746588694,91:0.002923976608):0.0009746588694,92:0.003898635478):0.0009746588694,93:0.004873294347)Haplozetes:0.005847953216):0.01851851852,((94:0.0009746588694,95:0.0009746588694):0.01559454191,(96:0.01461988326,97:0.01461988317,(((98:0.0009746588694,99:0.0009746588694):0.006822612086,((100:0.002923976608,(101:0.001949317739,(102:0.0009746588694,103:0.0009746588694):0.0009746588694):0.0009746588694):0.002923976608,((104:0.0009746588694,105:0.0009746588694):0.0009746588694,106:0.001949317739):0.003898635478):0.001949317739):0.0009746588694,107:0.008771929825):0.005847953216,(108:0.004873294347,((((109:0.0009746588694,(110:0.0004873294347,111:0.0004873296329)NA:0.0004873294347):0.0009746588694,112:0.001949317739)Topobates:0.0009746588694,113:0.002923976608):0.0009746588694,114:0.003898635478):0.0009746588694):0.009746588694)Scheloribates:0.001949317739)Scheloribatidae:0.0126705653):0.007797270955,(115:0.006822612213,(((116:0.0009746588694,117:0.0009746588694):0.001949317739,(118:0.0009746588694,119:0.0009746588694):0.001949317739):0.001949317739,(120:0.0009746588694,121:0.0009746588694):0.003898635478):0.001949317739,(122:0.0009746588694,123:0.0009746588694):0.005847953216)Liebstadia:0.03021442495):0.03996101365,(((124:0.02631578968,125:0.02631578968,126:0.02631578961,((127:0.02144249534,128:0.02144249533,129:0.02144249525,((((130:0.0009746588694,131:0.0009746588694):0.0009746588694,132:0.001949317739):0.003898635478,(133:0.002923976608,(134:0.001949317739,(135:0.0009746588694,136:0.0009746588694):0.0009746588694):0.0009746588694):0.002923976608):0.01461988304,(137:0.01364522417,(138:0.0126705653,(139:0.01169590643,((((140:0.001949317739,(141:0.0009746588694,142:0.0009746588694):0.0009746588694):0.005847953216,(143:0.004873294347,(144:0.003898635478,((145:0.001949317739,(146:0.0009746588694,147:0.0009746588694):0.0009746588694):0.0009746588694,148:0.002923976608):0.0009746588694):0.0009746588694):0.002923976608):0.001949317739,(149:0.0009746588694,150:0.0009746588694):0.008771929825):0.0009746588694,151:0.01072124756):0.0009746588694):0.0009746588694):0.0009746588694):0.006822612086):0.0009746588694,152:0.02144249513)Oribatula:0.0009746588694,153:0.022417154):0.003898635478,((154:0.001949317739,(155:0.0009746588694,156:0.0009746588694):0.0009746588694):0.0009746588694,157:0.002923976608)Zygoribatula:0.02339181287):0.003898635478,((158:0.001949317739,(159:0.0009746588694,160:0.0009746588694):0.0009746588694):0.0009746588694,161:0.002923976608)Phauloppia:0.02729044834)Oribatulidae:0.008771929825,((162:0.0009746588694,163:0.0009746588694):0.006822612086,(164:0.005847953216,(165:0.004873294562,(((166:0.0009746588694,167:0.0009746588694):0.001949317739,(168:0.0009746588694,169:0.0009746588694):0.001949317739):0.0009746588694,170:0.003898635478):0.0009746588694,171:0.004873294347)Protoribates:0.0009746588694)Protoribatidae:0.001949317739):0.03118908382):0.03801169591):0.004873294347,(172:0.003898635686,(173:0.001949317739,(174:0.0009746588694,175:0.0009746588694):0.0009746588694):0.001949317739,(176:0.0009746588694,177:0.0009746588694):0.002923976608)Hemileius:0.07797270955)Oripodoidea:0.03606237817):0.4191033138,((((((178:0.02144249527,179:0.02144249519,((((((((((((180:0.0009746588694,181:0.0009746588694):0.0009746588694,182:0.001949317739):0.006822612086,((183:0.002923976608,((184:0.0009746588694,185:0.0009746588694):0.0009746588694,186:0.001949317739):0.0009746588694):0.002923976608,((187:0.0009746588694,188:0.0009746588694):0.0009746588694,189:0.001949317739):0.003898635478):0.002923976608):0.0009746588694,190:0.009746588694):0.0009746588694,191:0.01072124756):0.0009746588694,192:0.01169590643):0.0009746588694,193:0.0126705653):0.001949317739,(194:0.0009746588694,195:0.0009746588694):0.01364522417):0.0009746588694,196:0.01559454191):0.0009746588694,197:0.01656920078):0.0009746588694,198:0.01754385965):0.002923976608,(199:0.001949317739,(200:0.0009746588694,201:0.0009746588694):0.0009746588694):0.01851851852):0.0009746588694,202:0.02144249513)Eupelops:0.005847953216,(203:0.004873294467,204:0.00487329446,((205:0.0009746588694,206:0.0009746588694):0.0009746588694,207:0.001949317739):0.002923976608,(208:0.001949317739,(209:0.0009746588694,210:0.0009746588694):0.0009746588694):0.002923976608)Peloptulus:0.022417154)Phenopelopidae:0.2933723197,(((((((211:0.02046783636,(((((((212:0.003898635478,(213:0.002923976608,(214:0.001949317739,(215:0.0009746588694,216:0.0009746588694):0.0009746588694):0.0009746588694):0.0009746588694):0.005847953216,((217:0.003898635478,(218:0.002923976608,(219:0.001949317739,(220:0.0009746588694,221:0.0009746588694):0.0009746588694):0.0009746588694):0.0009746588694):0.0009746588694,222:0.004873294347):0.004873294347):0.004873294347,(((223:0.0009746588694,224:0.0009746588694):0.001949317739,(225:0.0009746588694,226:0.0009746588694):0.001949317739):0.0009746588694,227:0.003898635478):0.01072124756):0.001949317739,(228:0.0009746588694,229:0.0009746588694):0.01559454191):0.0009746588694,230:0.01754385965):0.0009746588694,231:0.01851851852):0.0009746588694,232:0.01949317739):0.0009746588694,233:0.02046783626)Oribatella:0.002923976608,((234:0.0009746588924,235:0.0009746588694,236:0.0009746588694)Tectoribates:0.0009746588694,237:0.001949317739):0.02144249513):0.002923976608,(238:0.001949317761,(239:0.0009746588694,240:0.0009746588694):0.0009746588694,241:0.001949317739)Ophidiotrichus:0.02436647173):0.001949317739,(242:0.0009746588694,243:0.0009746588694)Pseudotectoribates:0.02729044834)Oribatellidae:0.03021442495,(((244:0.02729044846,245:0.02729044836,246:0.02729044836,(247:0.02241715402,((((248:0.001949317739,(249:0.0009746588694,250:0.0009746588694):0.0009746588694):0.001949317739,(251:0.0009746588694,252:0.0009746588694):0.002923976608):0.0009746588694,253:0.004873294347):0.0009746588694,254:0.005847953216)Pergalumna:0.01656920078,(((255:0.002923976639,(256:0.0009746588694,257:0.0009746588694):0.001949317739,(258:0.0009746588694,259:0.0009746588694):0.001949317739)Allogalumna:0.01169590643,(((((((((260:0.001949317739,(261:0.0009746588694,262:0.0009746588694):0.0009746588694):0.0009746588694,263:0.002923976608):0.0009746588694,264:0.003898635478):0.0009746588694,265:0.004873294347):0.0009746588694,266:0.005847953216):0.0009746588694,267:0.006822612086):0.0009746588694,268:0.007797270955):0.0009746588694,269:0.008771929825):0.001949317739,(270:0.0009746588694,271:0.0009746588694):0.009746588694)Galumna:0.003898635478):0.0009746588694,(272:0.007797270955,273:0.007797271059)NA:0.007797270955):0.006822612086):0.004873294347,((274:0.001949317739,275:0.00194931783)NA:0.001949317739,(276:0.002923976692,(277:0.0009746588694,278:0.0009746588694):0.001949317739,(279:0.0009746588694,280:0.0009746588694):0.001949317739)Pilogalumna:0.0009746588694):0.02339181287):0.0009746588694,281:0.02826510721)Galumnidae:0.0009746588694,(282:0.01461988304,283:0.01461988306)NA:0.01461988304)Galumnoidea:0.02923976608):0.1286549708,((((((284:0.03898635493,(285:0.01267056545,((((286:0.002923976608,(287:0.001949317739,(288:0.0009746588694,289:0.0009746588694):0.0009746588694):0.0009746588694):0.003898635478,(((290:0.0009746588694,291:0.0009746588694):0.0009746588694,292:0.001949317739):0.0009746588694,293:0.002923976608):0.003898635478):0.001949317739,(294:0.0009746588694,295:0.0009746588694):0.007797270955):0.001949317739,(296:0.0009746588694,297:0.0009746588694):0.009746588694):0.001949317739,(298:0.0009746588694,299:0.0009746588694):0.01169590643)Damaeus:0.02631578947,((300:0.01267056546,(((((((301:0.002923976608,((302:0.0009746588694,303:0.0009746588694):0.0009746588694,304:0.001949317739):0.0009746588694):0.001949317739,(305:0.0009746588694,306:0.0009746588694):0.003898635478):0.0009746588694,307:0.005847953216):0.001949317739,(308:0.0009746588694,309:0.0009746588694):0.006822612086):0.0009746588694,310:0.008771929825):0.0009746588694,311:0.009746588694):0.001949317739,(312:0.0009746588694,313:0.0009746588694):0.01072124756):0.0009746588694,314:0.0126705653)Metabelba:0.0126705653,(((315:0.007797271112,(((316:0.0009746588694,317:0.0009746588694):0.002923976608,((318:0.0009746588694,319:0.0009746588694):0.0009746588694,320:0.001949317739):0.001949317739):0.002923976608,(321:0.001949317739,(322:0.0009746588694,323:0.0009746588694):0.0009746588694):0.004873294347):0.0009746588694,324:0.007797270955)Belba:0.001949317739,(325:0.0009746588694,326:0.0009746588694)Porobelba:0.008771929825):0.001949317739,327:0.01169590643):0.01364522417):0.01364522417):0.003898635478,((328:0.0009746588694,329:0.0009746588694):0.001949317739,330:0.002923976608)Kunstidamaeus:0.03996101365):0.003898635478,(331:0.002923976608,((332:0.0009746588694,333:0.0009746588694):0.0009746588694,334:0.001949317739)Spatiodamaeus:0.0009746588694):0.04385964912):0.0009746588694,335:0.0477582846):0.004873294347,(((336:0.0009746588694,337:0.0009746588694):0.001949317739,(338:0.0009746588694,339:0.0009746588694):0.001949317739):0.0009746588694,340:0.003898635478)Metabelbella:0.04873294347)Damaeidae:0.07504873294,((((341:0.005847953368,(342:0.003898635478,(343:0.002923976608,(344:0.001949317739,(345:0.0009746588694,346:0.0009746588694):0.0009746588694):0.0009746588694):0.0009746588694):0.001949317739,(347:0.0009746588694,348:0.0009746588694):0.004873294347)Tectocepheus:0.03118908382,((((349:0.0009746588694,350:0.0009746588694):0.0009746588694,351:0.001949317739)Austrocarabodes:0.002923976608,((352:0.0009746588694,353:0.0009746588694):0.0009746588694,354:0.001949317739)Odontocepheus:0.002923976608):0.0253411306,(355:0.02436647189,356:0.02436647181,((((((((((357:0.0009746588694,358:0.0009746588694):0.001949317739,(359:0.0009746588694,360:0.0009746588694):0.001949317739):0.0009746588694,361:0.003898635478):0.003898635478,((362:0.001949317739,(363:0.0009746588694,364:0.0009746588694):0.0009746588694):0.0009746588694,365:0.002923976608):0.004873294347):0.002923976608,((366:0.0009746588694,367:0.0009746588694):0.0009746588694,368:0.001949317739):0.008771929825):0.0009746588694,369:0.01169590643):0.0009746588694,370:0.0126705653):0.005847953216,(((371:0.0009746588694,372:0.0009746588694):0.001949317739,(373:0.0009746588694,374:0.0009746588694):0.001949317739):0.001949317739,(375:0.0009746588694,376:0.0009746588694):0.003898635478):0.01364522417):0.0009746588694,377:0.01949317739):0.003898635478,(378:0.002923976608,(379:0.001949317739,(380:0.0009746588694,381:0.0009746588694):0.0009746588694):0.0009746588694):0.02046783626):0.0009746588694,382:0.02436647173)Carabodes:0.005847953216)Carabodidae:0.006822612086):0.01169590643,((383:0.004873294444,((((384:0.0009746588694,385:0.0009746588694):0.0009746588694,386:0.001949317739):0.0009746588694,387:0.002923976608):0.0009746588694,388:0.003898635478):0.0009746588694,389:0.004873294347)Hermanniella:0.004873294347,((390:0.001949317806,391:0.001949317806,392:0.001949317806,(393:0.0009746588694,394:0.0009746588694):0.0009746588694,395:0.001949317739)Cepheus_-genus_in_Bilateria:0.001949317739,(396:0.0009746588694,397:0.0009746588694)Tritegeus_-genus_in_Bilateria:0.002923976608)Cepheidae_-family_in_Bilateria:0.005847953216):0.03898635478):0.0253411306,((((398:0.01267056536,(399:0.006822612086,((((400:0.001949317739,(401:0.0009746588694,402:0.0009746588694):0.0009746588694):0.0009746588694,403:0.002923976608):0.0009746588694,404:0.003898635478)Parachipteria:0.001949317739,(405:0.0009746588694,406:0.0009746588694)Cerachipteria:0.004873294347):0.0009746588694):0.005847953216,((((407:0.0009746588694,408:0.0009746588694):0.0009746588694,409:0.001949317739):0.0009746588694,410:0.002923976608):0.001949317739,(411:0.0009746588694,412:0.0009746588694):0.003898635478)Campachipteria:0.007797270955):0.003898635478,(413:0.002923976743,414:0.002923976675,((415:0.0009746588694,416:0.0009746588694):0.0009746588694,417:0.001949317739):0.0009746588694,418:0.002923976608)Anachipteria:0.01364522417):0.005847953216,(419:0.004873294486,((((420:0.0009746588694,421:0.0009746588694):0.0009746588694,422:0.001949317739):0.0009746588694,423:0.002923976608):0.0009746588694,424:0.003898635478):0.0009746588694,425:0.004873294347)Achipteria:0.01754385965)Achipteriidae:0.001949317739,(426:0.0009746588694,(427:0.0004873294347,428:0.0004873295263)NA:0.0004873294347)Tegoribatidae:0.02339181287)Achipterioidea:0.04970760234):0.05360623782):0.05945419103):0.1052631579,(((429:0.001949317739,(430:0.000974658972,431:0.0009746588694,432:0.0009746588694)Pantelozetes:0.0009746588694):0.001949317739,(433:0.0009746588694,434:0.0009746588694)Montizetes:0.002923976608)Oribellidae:0.1003898635,(((((435:0.006822612222,(((436:0.003898635478,(((437:0.0009746588694,438:0.0009746588694):0.0009746588694,439:0.001949317739):0.0009746588694,440:0.002923976608):0.0009746588694):0.0009746588694,441:0.004873294347):0.0009746588694,442:0.005847953216):0.0009746588694,443:0.006822612086)Mycobates:0.001949317739,(444:0.0009746588694,445:0.0009746588694)Zachvatkinibates:0.007797270955)Mycobatidae:0.0009746588694,(446:0.004873294347,447:0.004873294438)NA:0.004873294347):0.08771929825,((448:0.01461988319,449:0.01461988317,450:0.01461988311,451:0.01461988308,((((((452:0.003898635478,(453:0.002923976608,(454:0.001949317739,(455:0.0009746588694,456:0.0009746588694):0.0009746588694):0.0009746588694):0.0009746588694):0.002923976608,((457:0.0009746588694,458:0.0009746588694):0.0009746588694,459:0.001949317739):0.004873294347):0.0009746588694,460:0.007797270955):0.0009746588694,461:0.008771929825):0.002923976608,((462:0.0009746588694,463:0.0009746588694):0.0009746588694,464:0.001949317739):0.009746588694):0.0009746588694,465:0.0126705653)Chamobates:0.001949317739,(466:0.0009746588694,467:0.0009746588694)Globozetes:0.01364522417)Chamobatidae:0.07212475634,((468:0.01656920084,469:0.01656920084,(470:0.005847953354,((471:0.0009746588694,472:0.0009746588694)Semipunctoribates:0.003898635478,(((473:0.0009746588694,474:0.0009746588694):0.0009746588694,475:0.001949317739):0.0009746588694,476:0.002923976608)Minunthozetes:0.001949317739):0.0009746588694,477:0.005847953216):0.01072124756,((478:0.008771929824,(((479:0.002923976608,(480:0.001949317739,(481:0.0009746588694,482:0.0009746588694):0.0009746588694):0.0009746588694):0.002923976608,((483:0.0009746588694,484:0.0009746588694):0.0009746588694,485:0.001949317739):0.003898635478):0.0009746588694,486:0.006822612086):0.001949317739):0.0009746588694,487:0.009746588694)Punctoribates:0.006822612086)Punctoribatidae:0.05458089669,(((488:0.0428849904,489:0.04288499032,490:0.0428849903,((((((491:0.003898635537,(((492:0.0009746588694,493:0.0009746588694):0.0009746588694,494:0.001949317739):0.0009746588694,495:0.002923976608):0.0009746588694,496:0.003898635478)Melanozetes:0.01169590643,((((497:0.002923976655,(498:0.001949317739,(499:0.0009746588694,500:0.0009746588694):0.0009746588694):0.0009746588694,501:0.002923976608)Diapterobates:0.0009746588694,502:0.003898635478):0.002923976608,((503:0.0009746588694,504:0.0009746588694):0.0009746588694,505:0.001949317739)Sphaerozetes:0.004873294347):0.003898635478,(506:0.002923976745,(507:0.0009746588694,508:0.0009746588694):0.001949317739,(509:0.0009746588694,510:0.0009746588694):0.001949317739)Fuscozetes:0.007797270955):0.004873294347):0.004873294347,(((511:0.0009746588694,512:0.0009746588694):0.0009746588694,513:0.001949317739)Protozetomimus:0.001949317739,(514:0.0009746588694,515:0.0009746588694)Jugatala:0.002923976608):0.01656920078):0.0009746588694,(516:0.01072124756,517:0.01072124762)NA:0.01072124756):0.0009746588694,518:0.022417154):0.01656920078,(((((((519:0.002923976608,((520:0.0009746588694,521:0.0009746588694):0.0009746588694,522:0.001949317739):0.0009746588694):0.001949317739,(523:0.0009746588694,524:0.0009746588694):0.003898635478):0.002923976608,((525:0.0009746588694,526:0.0009746588694):0.0009746588694,527:0.001949317739):0.005847953216):0.001949317739,(528:0.0009746588694,529:0.0009746588694):0.008771929825):0.0009746588694,530:0.01072124756):0.002923976608,((531:0.0009746588694,532:0.0009746588694):0.0009746588694,533:0.001949317739):0.01169590643)Ceratozetes:0.001949317739,(534:0.0009746588694,535:0.0009746588694)Oromurcia:0.01461988304):0.02339181287):0.003898635478,((536:0.0009746588694,537:0.0009746588694):0.001949317739,(538:0.0009746588694,539:0.0009746588694):0.001949317739)Ceratozetella:0.03996101365):0.0009746588694,540:0.04385964912):0.009746588694,(541:0.008771929955,542:0.008771929893,((((543:0.003898635478,(544:0.002923976608,(545:0.001949317739,(546:0.0009746588694,547:0.0009746588694):0.0009746588694):0.0009746588694):0.0009746588694):0.0009746588694,548:0.004873294347):0.001949317739,(549:0.0009746588694,550:0.0009746588694):0.005847953216):0.0009746588694,551:0.007797270955):0.0009746588694,552:0.008771929825)Trichoribates:0.04483430799)Ceratozetidae:0.01754385965):0.01559454191):0.01072124756):0.001949317739,(553:0.000974658999,554:0.0009746588694,555:0.0009746588694)Euzetes:0.09844054581)Ceratozetoidea:0.004873294347):0.1881091618):0.02826510721):0.03411306043,(556:0.03313840156,(((((557:0.006822612086,(558:0.005847953349,(((559:0.001949317739,(560:0.0009746588694,561:0.0009746588694):0.0009746588694):0.001949317739,(562:0.0009746588694,563:0.0009746588694):0.002923976608):0.0009746588694,564:0.004873294347):0.0009746588694,565:0.005847953216)Scutovertex:0.0009746588694):0.0009746588694,566:0.007797270955)Scutoverticidae:0.0126705653,(567:0.01169590648,568:0.01169590643,(((569:0.001949317739,(570:0.0009746588694,571:0.0009746588694):0.0009746588694):0.0009746588694,572:0.002923976608):0.001949317739,(573:0.0009746588694,574:0.0009746588694):0.003898635478)Passalozetes:0.006822612086)Passalozetidae:0.008771929825):0.001949317739,(575:0.0009746588694,576:0.0009746588694)Micreremus:0.02144249513)Licneremaeoidea:0.009746588694,((577:0.003898635534,((578:0.001949317739,(579:0.0009746588694,580:0.0009746588694):0.0009746588694):0.0009746588694,581:0.002923976608):0.0009746588694,582:0.003898635478)Limnozetes:0.004873294347,(583:0.003898635614,((584:0.001949317739,(585:0.0009746588694,586:0.0009746588694):0.0009746588694):0.0009746588694,587:0.002923976608):0.0009746588694,588:0.003898635478)Hydrozetes:0.004873294347)Hydrozetoidea:0.02339181287):0.0009746588694):0.3216374269):0.03801169591,(((589:0.01364522426,(((590:0.0009746588694,591:0.0009746588694):0.0009746588694,592:0.001949317739)Adoristes:0.01072124756,(593:0.009746588787,594:0.009746588787,(((((595:0.001949317739,(596:0.0009746588694,597:0.0009746588694):0.0009746588694):0.0009746588694,598:0.002923976608):0.001949317739,(599:0.0009746588694,600:0.0009746588694):0.003898635478):0.0009746588694,601:0.005847953216):0.002923976608,(602:0.001949317739,(603:0.0009746588694,604:0.0009746588694):0.0009746588694):0.006822612086):0.0009746588694,605:0.009746588694)Liacarus:0.002923976608):0.0009746588694,606:0.01364522417)Liacaridae:0.007797270955,(607:0.006822612189,((608:0.004873294347,(((609:0.0009746588694,610:0.0009746588694):0.001949317739,(611:0.0009746588694,612:0.0009746588694):0.001949317739):0.0009746588694,613:0.003898635478):0.0009746588694):0.0009746588694,614:0.005847953216):0.0009746588694,615:0.006822612086)Xenillus:0.01461988304):0.01559454191,((((616:0.0009746588694,617:0.0009746588694):0.0009746588694,618:0.001949317739)Gustavia_-genus_in_Opisthokonta:0.001949317739,619:0.003898635477):0.01072124756,(((620:0.0009746588694,621:0.0009746588694):0.001949317739,(622:0.000974659043,623:0.0009746588694,624:0.0009746588694)Cultroribula:0.001949317739)Astegistidae:0.006822612086,(((625:0.0009746589636,626:0.0009746588694,627:0.0009746588694)Pyroppia:0.003898635478,(628:0.002923976684,(629:0.001949317739,(630:0.0009746588694,631:0.0009746588694):0.0009746588694):0.0009746588694,632:0.002923976608)Ceratoppia:0.001949317739):0.0009746588694,633:0.005847953216)Ceratoppiidae:0.003898635478):0.004873294347):0.022417154)Gustavioidea:0.3557504873):0.0253411306,((((634:0.001949317739,(635:0.0009746588694,636:0.0009746588694):0.0009746588694):0.0009746588694,637:0.002923976608):0.0009746588694,638:0.003898635478)Ameronothrus:0.02046783626,((639:0.00779727104,(((640:0.0009746588694,641:0.0009746588694):0.0009746588694,642:0.001949317739)Gymnodamaeus:0.003898635478,(((643:0.0009746588694,644:0.0009746588694):0.0009746588694,645:0.001949317739)Arthrodamaeus:0.0009746588694,646:0.002923976608):0.002923976608):0.001949317739,(647:0.0009746588694,648:0.0009746588694):0.006822612086)Gymnodamaeidae:0.01169590643,(649:0.01072124767,((650:0.003898635478,651:0.003898635643)NA:0.003898635478,(652:0.006822612259,(((653:0.0009746588694,654:0.0009746588694):0.003898635478,((655:0.001949317739,(656:0.0009746588694,657:0.0009746588694):0.0009746588694):0.0009746588694,658:0.002923976608):0.001949317739):0.0009746588694,659:0.005847953216):0.0009746588694,660:0.006822612086)Eueremaeus:0.0009746588694):0.002923976608,((661:0.0009746588694,662:0.0009746588694):0.0009746588694,663:0.001949317739)Eremaeus:0.008771929825)Eremaeidae:0.008771929825):0.004873294347):0.3937621832):0.1189083821):0.1812865497,(((((((664:0.001949317909,665:0.001949317739,666:0.001949317739)Autogneta:0.001949317739,(667:0.000974658958,668:0.0009746588694,669:0.0009746588694)Conchogneta:0.002923976608)Autognetidae:0.05847953216,(((670:0.01072124774,(((((671:0.0009746588694,672:0.0009746588694):0.001949317739,(673:0.0009746588694,674:0.0009746588694):0.001949317739):0.002923976608,(675:0.001949317739,(676:0.0009746588694,677:0.0009746588694):0.0009746588694):0.003898635478):0.001949317739,(678:0.0009746588694,679:0.0009746588694):0.006822612086):0.001949317739,680:0.009746588694):0.0009746588694,681:0.01072124756)Quadroppia:0.0009746588694,682:0.01169590643)Quadroppiidae:0.04580896686,((((683:0.0009746588694,684:0.0009746588694)Suctobelbata:0.03216374269,(685:0.03118908402,686:0.03118908393,((((((((((687:0.0009746588694,688:0.0009746588694):0.02046783626,(((((689:0.004873294347,((690:0.002923976608,((691:0.0009746588694,692:0.0009746588694):0.0009746588694,693:0.001949317739):0.0009746588694):0.0009746588694,694:0.003898635478):0.0009746588694):0.009746588694,((695:0.007797270955,(((696:0.002923976608,(697:0.001949317739,(698:0.0009746588694,699:0.0009746588694):0.0009746588694):0.0009746588694):0.001949317739,(700:0.0009746588694,701:0.0009746588694):0.003898635478):0.001949317739,(702:0.0009746588694,703:0.0009746588694):0.005847953216):0.0009746588694):0.0009746588694,704:0.008771929825):0.005847953216):0.0009746588694,705:0.01559454191):0.002923976608,((706:0.0009746588694,707:0.0009746588694):0.0009746588694,708:0.001949317739):0.01656920078):0.0009746588694,709:0.01949317739):0.001949317739):0.001949317739,(710:0.0009746588694,711:0.0009746588694):0.022417154):0.0009746588694,712:0.02436647173):0.0009746588694,713:0.0253411306):0.0009746588694,714:0.02631578947):0.0009746588694,715:0.02729044834):0.0009746588694,716:0.02826510721):0.0009746588694,717:0.02923976608):0.0009746588694,718:0.03021442495):0.0009746588694,719:0.03118908382)Suctobelbella:0.001949317739):0.0009746588694,(720:0.01705653021,721:0.01705653021)NA:0.01705653021):0.01072124756,(722:0.009746588886,((((723:0.001949317739,(724:0.0009746588694,725:0.0009746588694):0.0009746588694):0.0009746588694,726:0.002923976608):0.0009746588694,727:0.003898635478):0.004873294347,((728:0.002923976608,(729:0.001949317739,(730:0.0009746588694,731:0.0009746588694):0.0009746588694):0.0009746588694):0.0009746588694,732:0.003898635478):0.004873294347):0.0009746588694,733:0.009746588694)Suctobelba:0.0350877193)Suctobelbidae:0.0126705653):0.004873294347):0.0009746588694,734:0.06335282651):0.005847953216,((735:0.001949317821,(736:0.0009746588694,737:0.0009746588694):0.0009746588694,738:0.001949317739)Banksinoma:0.002923976608,((739:0.0009746588694,740:0.0009746588694):0.0009746588694,741:0.001949317739)Oribella:0.002923976608)Banksinomidae:0.06432748538):0.002923976608,((742:0.0009746588694,743:0.0009746588694):0.0009746588694,744:0.001949317739)Machuella:0.0701754386):0.1081871345,(745:0.1072124758,746:0.1072124758,747:0.1072124758,748:0.1072124758,749:0.1072124758,750:0.1072124758,751:0.1072124758,752:0.1072124758,753:0.1072124757,754:0.1072124757,755:0.1072124757,((((756:0.01656920096,((757:0.01461988304,(758:0.01364522417,((((759:0.009746588694,((((760:0.001949317739,(761:0.0009746588694,762:0.0009746588694):0.0009746588694):0.001949317739,(763:0.0009746588694,764:0.0009746588694):0.002923976608):0.003898635478,(765:0.002923976608,((766:0.0009746588694,767:0.0009746588694):0.0009746588694,768:0.001949317739):0.0009746588694):0.004873294347):0.0009746588694,769:0.008771929825):0.0009746588694):0.0009746588694,770:0.01072124756):0.0009746588694,771:0.01169590643):0.0009746588694,772:0.0126705653):0.0009746588694):0.0009746588694):0.0009746588694,773:0.01559454191):0.0009746588694,774:0.01656920078)Berniniella:0.03606237817,((775:0.01851851852,(776:0.01754385983,777:0.01754385981,((((((778:0.003898635478,((779:0.0009746588694,780:0.0009746588694):0.001949317739,(781:0.0009746588694,782:0.0009746588694):0.001949317739):0.0009746588694):0.002923976608,(783:0.001949317739,(784:0.0009746588694,785:0.0009746588694):0.0009746588694):0.004873294347):0.002923976608,(786:0.001949317739,(787:0.0009746588694,788:0.0009746588694):0.0009746588694):0.007797270955):0.002923976608,(789:0.001949317739,(790:0.0009746588694,791:0.0009746588694):0.0009746588694):0.01072124756):0.0009746588694,792:0.01364522417):0.0009746588694,793:0.01461988304):0.002923976608,(794:0.001949317739,(795:0.0009746588694,796:0.0009746588694):0.0009746588694):0.01559454191)Ramusella:0.0009746588694):0.01656920078,(797:0.015594542,(((798:0.001949317739,((799:0.0004873294347,800:0.0004873295285)NA:0.0004873294347,801:0.0009746588694):0.0009746588694):0.006822612086,(802:0.005847953216,((803:0.0009746588694,804:0.0009746588694)Oxyoppia:0.003898635478,(805:0.002923976782,(806:0.0009746588694,807:0.0009746588694):0.001949317739,808:0.002923976608)Serratoppia:0.001949317739):0.0009746588694):0.002923976608):0.003898635477,((809:0.0009746588694,810:0.0009746588694):0.0009746588694,811:0.001949317739)Lauroppia:0.01072124756):0.002923976608,(812:0.0009746588694,(813:0.0004873294347,814:0.0004873295995)NA:0.0004873294347)Subiasella:0.01461988304):0.01949317739):0.01754385965):0.01169590643,((815:0.00194931782,816:0.00194931782,(817:0.0009746588694,818:0.0009746588694):0.0009746588694,819:0.001949317739)Dissorhina:0.008771929825,((820:0.006822612262,821:0.006822612253,(((((822:0.0009746588694,823:0.0009746588694):0.001949317739,(824:0.0009746588694,825:0.0009746588694):0.001949317739):0.0009746588694,826:0.003898635478):0.0009746588694,827:0.004873294347):0.0009746588694,828:0.005847953216):0.0009746588694,829:0.006822612086)Multioppia:0.0009746588694,830:0.007797270955):0.002923976608):0.05360623782):0.006822612086,((831:0.001949317831,(832:0.0009746588694,833:0.0009746588694):0.0009746588694,834:0.001949317739)Hypogeoppia:0.003898635478,(((835:0.0009746588694,836:0.0009746588694):0.0009746588694,837:0.001949317739)Graptoppia:0.0009746588694,838:0.002923976608):0.002923976608):0.06530214425):0.03606237817,((((((839:0.0009746588694,840:0.0009746588694):0.0009746588694,841:0.001949317739)Lasiobelba:0.002923976608,((842:0.0009746588694,843:0.0009746588694)Corynoppia:0.0009746588694,844:0.001949317739):0.002923976608):0.0009746588694,(845:0.002923976608,846:0.002923976783)NA:0.002923976608):0.02826510721,((847:0.006822612086,((848:0.0009746588694,849:0.0009746588694)Pulchroppiella:0.004873294347,(850:0.003898635478,((851:0.001949317739,(852:0.0009746588694,853:0.0009746588694):0.0009746588694):0.0009746588694,854:0.002923976608)Oppia_-genus_in_subphylum_Chelicerata:0.0009746588694):0.001949317739):0.0009746588694):0.02046783626,((((((((855:0.002923976608,(856:0.001949317739,(857:0.0009746588694,858:0.0009746588694):0.0009746588694):0.0009746588694):0.002923976608,(859:0.001949317739,(860:0.0009746588694,861:0.0009746588694):0.0009746588694):0.003898635478):0.005847953216,((862:0.001949317739,863:0.001949317739):0.002923976608,(864:0.0009746588694,865:0.0009746588694):0.003898635478):0.006822612086):0.0009746588694,866:0.0126705653):0.0009746588694,867:0.01364522417):0.003898635478,(868:0.002923976608,(869:0.001949317739,(870:0.0009746588694,871:0.0009746588694):0.0009746588694):0.0009746588694):0.01461988304):0.0009746588694,872:0.01851851852):0.0009746588694,873:0.01949317739)Oppiella:0.007797270955):0.006822612086):0.0009746588694,874:0.0350877193):0.07212475634)Oppiidae:0.0730994152)Oppioidea:0.5380116959)Brachypylina:0.1374269006,((((((875:0.003898635675,(876:0.001949317739,(877:0.0009746588694,878:0.0009746588694):0.0009746588694):0.001949317739,(879:0.0009746588694,880:0.0009746588694):0.002923976608)Nanhermannia:0.0009746588694,881:0.004873294347)Nanhermanniidae:0.02436647173,(882:0.02339181302,((883:0.007797271073,((884:0.004873294458,((885:0.0009746588694,886:0.0009746588694):0.001949317739,(887:0.0009746588694,888:0.0009746588694):0.001949317739):0.001949317739,(889:0.0009746588694,890:0.0009746588694):0.003898635478):0.0009746588694,891:0.005847953216)Heminothrus:0.001949317739,(892:0.0009746588694,893:0.0009746588694)Platynothrus:0.006822612086):0.008771929825,(894:0.007797271153,((895:0.002923976608,(896:0.001949317739,(897:0.0009746588694,898:0.0009746588694):0.0009746588694):0.0009746588694):0.003898635478,(((899:0.0009746588694,900:0.0009746588694):0.0009746588694,901:0.001949317739):0.0009746588694,902:0.002923976608):0.003898635478):0.0009746588694,903:0.007797270955)Camisia:0.008771929825)Camisiidae:0.006822612086,((((904:0.001949317739,(905:0.0009746588694,906:0.0009746588694):0.0009746588694):0.0009746588694,907:0.002923976608):0.0009746588694,908:0.003898635478):0.001949317739,(909:0.0009746588694,910:0.0009746588694):0.004873294347)Nothrus:0.01754385965)Crotonioidea:0.005847953216):0.022417154,(((911:0.001949317858,(912:0.0009746588694,913:0.0009746588694):0.0009746588694,914:0.001949317739)Haplochthonius:0.007797270955,(((915:0.0009746588694,916:0.0009746588694)Trhypochthoniellus:0.004873294347,(((917:0.0009746588694,918:0.0009746588694):0.001949317739,(919:0.0009746588694,920:0.0009746588694):0.001949317739)Trhypochthonius:0.0009746588694,921:0.003898635478):0.001949317739):0.0009746588694,922:0.006822612086)Trhypochthoniidae:0.002923976608):0.01169590643,((923:0.003898635685,((924:0.0009746588694,925:0.0009746588694):0.001949317739,(926:0.0009746588694,927:0.0009746588694):0.001949317739):0.0009746588694,928:0.003898635478)Malaconothrus:0.006822612086,(((929:0.003898635478,(930:0.002923976608,((931:0.0009746588694,932:0.0009746588694):0.0009746588694,933:0.001949317739):0.0009746588694):0.0009746588694):0.0009746588694,934:0.004873294347):0.0009746588694,935:0.005847953216)Tyrphonothrus:0.004873294347)Malaconothridae:0.01072124756)Trhypochthonioidea:0.03021442495):0.005847953216,(936:0.004873294501,(937:0.001949317739,(938:0.0009746588694,939:0.0009746588694):0.0009746588694):0.002923976608,((940:0.0009746588694,941:0.0009746588694):0.0009746588694,942:0.001949317739):0.002923976608)Hermannia_-genus_in_Opisthokonta:0.05263157895)Desmonomata:0.07894736842,((((((((943:0.001949317739,(944:0.0009746588694,945:0.0009746588694):0.0009746588694):0.0009746588694,946:0.002923976608)Bursoplophora:0.0009746588694,947:0.003898635478):0.0009746588694,948:0.004873294347)Protoplophoridae:0.002923976608,(949:0.001949317739,(950:0.0009746588694,951:0.0009746588694)Hypochthonius:0.0009746588694)Hypochthonoidea:0.005847953216):0.0009746588694,952:0.008771929825):0.05360623782,((((953:0.0009746588694,954:0.0009746588694)Synchthonius:0.0253411306,((955:0.0009746588694,956:0.0009746588694):0.02339181287,(957:0.02144249513,((((((958:0.0009746588694,959:0.0009746588694):0.001949317739,(960:0.0009746588694,961:0.0009746588694):0.001949317739):0.0009746588694,962:0.003898635478):0.0009746588694,963:0.004873294347)Brachychthonius:0.002923976608,((964:0.0009746588694,965:0.0009746588694):0.0009746588694,966:0.001949317739)Eobrachychthonius:0.005847953216):0.0126705653,(967:0.01169590664,968:0.01169590656,(969:0.01072124756,((((((970:0.0009746588694,971:0.0009746588694):0.0009746588694,972:0.001949317739):0.001949317739,(973:0.0009746588694,974:0.0009746588694):0.002923976608):0.001949317739,(975:0.0009746588694,976:0.0009746588694):0.004873294347):0.002923976608,((977:0.0009746588694,978:0.0009746588694):0.0009746588694,979:0.001949317739):0.006822612086):0.0009746588694,980:0.009746588694):0.0009746588694):0.0009746588694,981:0.01169590643)Sellnickochthonius:0.008771929825):0.0009746588694):0.002923976608):0.001949317739):0.02436647173,((982:0.0009746588694,983:0.0009746588694)Neobrachychthonius:0.022417154,(984:0.02144249513,(985:0.02046783646,((((((986:0.0009746588694,987:0.0009746588694):0.003898635478,(((988:0.0009746588694,989:0.0009746588694):0.0009746588694,990:0.001949317739):0.0009746588694,991:0.002923976608):0.001949317739):0.001949317739,(992:0.0009746588694,993:0.0009746588694):0.005847953216):0.003898635478,(994:0.002923976608,((995:0.0009746588694,996:0.0009746588694):0.0009746588694,997:0.001949317739):0.0009746588694):0.007797270955):0.0009746588694,998:0.01169590643):0.005847953216,((999:0.002923976608,(1000:0.001949317739,(1001:0.0009746588694,1002:0.0009746588694):0.0009746588694):0.0009746588694):0.001949317739,(1003:0.0009746588694,1004:0.0009746588694):0.003898635478):0.0126705653):0.002923976608,((1005:0.0009746588694,1006:0.0009746588694):0.0009746588694,1007:0.001949317739):0.01851851852)Liochthonius:0.0009746588694):0.001949317739):0.02729044834):0.001949317739,(1008:0.0009746588694,1009:0.0009746588694)Poecilochthonius:0.05165692008)Brachychthoniidae:0.009746588694):0.01559454191,((1010:0.0009746588694,1011:0.0009746588694)Mesoplophora:0.01364522417,((1012:0.0009746588694,1013:0.0009746588694)Sphaerochthonius:0.01169590643,(((1014:0.0009746588694,1015:0.0009746588694)Phyllozetes:0.0009746588694,1016:0.001949317739):0.007797270955,(1017:0.006822612221,(1018:0.0009746588694,1019:0.0009746588694):0.005847953216,(1020:0.004873294347,((1021:0.001949317739,(1022:0.0009746588694,1023:0.0009746588694):0.0009746588694):0.001949317739,(1024:0.0009746588694,1025:0.0009746588694):0.002923976608):0.0009746588694):0.001949317739)Cosmochthonius:0.002923976608)Cosmochthoniidae:0.002923976608)Cosmochthonioidea:0.001949317739):0.06335282651)Enarthronota:0.05847953216):0.7192982456):0.001949317739):0.08576998051,((1026:0.02923976608,(((1027:0.00389863561,(1028:0.001949317739,(1029:0.0009746588694,1030:0.0009746588694):0.0009746588694):0.001949317739,(1031:0.0009746588694,1032:0.0009746588694):0.002923976608)Epilohmannia:0.007797270955,((1033:0.0009746590124,1034:0.0009746588694,1035:0.0009746588694)Perlohmannia:0.005847953216,((((1036:0.0009746588695,1037:0.0009746590835)NA:0.0009746588695,(1038:0.0009746588694,1039:0.0009746588694)Papillacarus:0.0009746588694):0.001949317739,(1040:0.0009746588694,1041:0.0009746588694)Lohmannia:0.002923976608):0.0009746588694,1042:0.004873294347)Lohmanniidae:0.001949317739):0.004873294347):0.01656920078,(((1043:0.006822612235,(((1044:0.0009746588694,1045:0.0009746588694):0.0009746588694,1046:0.001949317739):0.0009746588694,1047:0.002923976608)Acrotritia:0.003898635478,(1048:0.002923976608,(1049:0.001949317956,(1050:0.0009746588694,1051:0.0009746588694):0.0009746588694,1052:0.001949317739)Euphthiracarus:0.0009746588694):0.003898635478):0.0009746588694,(1053:0.003898635478,1054:0.003898635617)NA:0.003898635478)Euphthiracaridae:0.007797270955,(((1055:0.001949317878,(1056:0.0009746588694,1057:0.0009746588694):0.0009746588694,1058:0.001949317739)Oribotritia:0.002923976608,(1059:0.001949317739,(1060:0.0009746588694,1061:0.0009746588694):0.0009746588694):0.002923976608):0.001949317739,(1062:0.0009746588694,1063:0.0009746588694)Mesotritia:0.005847953216)Oribotritiidae:0.008771929825)Euphthiracaroidea:0.0126705653):0.0009746588694):0.05555555556,(((((((((((1064:0.002923976608,((1065:0.0009746588694,1066:0.0009746588694):0.0009746588694,1067:0.001949317739):0.0009746588694):0.002923976608,(1068:0.001949317739,(1069:0.0009746588694,1070:0.0009746588694):0.0009746588694):0.003898635478):0.001949317739,(1071:0.0009746588694,1072:0.0009746588694):0.006822612086):0.0009746588694,1073:0.008771929825):0.0009746588694,1074:0.009746588694):0.0009746588694,1075:0.01072124756):0.0009746588694,1076:0.01169590643):0.0009746588694,1077:0.0126705653):0.0009746588694,1078:0.01364522417)Steganacarus:0.007797270955,(1079:0.006822612239,((((1080:0.0009746588694,1081:0.0009746588694):0.001949317739,1082:0.002923976608):0.001949317739,1083:0.004873294347):0.0009746588694,1084:0.005847953216):0.0009746588694,1085:0.006822612086)Atropacarus:0.01461988304)Steganacaridae:0.03313840156,(((((((((((((1086:0.001949317739,(1087:0.0009746588694,1088:0.0009746588694):0.0009746588694):0.004873294347,(((1089:0.001949317739,(1090:0.0009746588694,1091:0.0009746588694):0.0009746588694):0.0009746588694,1092:0.002923976608):0.0009746588694,1093:0.003898635478):0.002923976608):0.005847953216,(1094:0.004873294347,((1095:0.002923976608,((1096:0.0009746588694,1097:0.0009746588694):0.0009746588694,1098:0.001949317739):0.0009746588694):0.0009746588694,1099:0.003898635478):0.0009746588694):0.007797270955):0.0009746588694,1100:0.01364522417):0.0009746588694,1101:0.01461988304):0.003898635478,(1102:0.002923976608,(1103:0.0009746588694,1104:0.0009746588694):0.001949317739):0.01559454191):0.0009746588694,1105:0.01949317739):0.002923976608,(1106:0.001949317739,(1107:0.0009746588694,1108:0.0009746588694):0.0009746588694):0.02046783626):0.001949317739,(1109:0.0009746588694,1110:0.0009746588694):0.02339181287):0.0009746588694,1111:0.0253411306):0.003898635478,((1112:0.001949317739,(1113:0.0009746588694,1114:0.0009746588694):0.0009746588694):0.0009746588694,1115:0.002923976608):0.02631578947)Phthiracarus:0.001949317739,(1116:0.0009746588694,1117:0.0009746588694)Notophthiracarus:0.03021442495):0.0009746588694,1118:0.03216374269)Phthiracaridae:0.022417154)Phthiracaroidea:0.03021442495)Mixonomata:0.8586744639):0.01169590643,((((1119:0.003898635478,(1120:0.002923976608,((1121:0.0009746588694,1122:0.0009746588694):0.0009746588694,1123:0.001949317739):0.0009746588694):0.0009746588694):0.001949317739,(1124:0.0009746588694,1125:0.0009746588694):0.004873294347):0.0009746588694,1126:0.006822612086)Microzetes:0.003898635478,(((1127:0.0009746588694,1128:0.0009746588694):0.0009746588694,1129:0.001949317739):0.0009746588694,1130:0.002923976608)Berlesezetes:0.007797270955)Microzetidae:0.9444444444):0.008771929825,(((1131:0.000974658949,1132:0.0009746588694,1133:0.0009746588694)Palaeacarus:0.005847953216,((((1134:0.0009746588694,1135:0.0009746588694)Beklemishevia:0.0009746588694,1136:0.001949317739):0.0009746588694,1137:0.002923976608)Ctenacaridae:0.001949317739,((1138:0.0004873294347,1139:0.0004873294997)NA:0.0004873294347,1140:0.0009746588694)Aphelacaridae:0.003898635478)Ctenacaroidea:0.001949317739):0.0009746588694,1141:0.007797270955)Palaeosomata:0.9561403509)Oribatida:0.0009746588694):0.0009746588694):0.0009746588694,1142:0.9668615984):0.003898635478):0.001949317739,(1143:0.0009746590002,1144:0.0009746588694,1145:0.0009746588694)Licnobelba:0.9717348928):0.022417154):1.003898635,1146:0.0009746588694)Pseudoscorpiones;
+END;
